@@ -1,0 +1,12 @@
+{
+  "name": "LibTomPoly",
+  "homepage": "https://www.libtom.net/LibTomPoly/",
+  "shortdesc": {
+    "en": "A library to provide polynomial basis arithmetic."
+  },
+  "repository": {
+    "browse": "https://github.com/libtom/libtompoly",
+    "location": "https://github.com/libtom/libtompoly.git"
+  },
+  "license": "https://github.com/libtom/libtompoly/blob/develop/LICENSE"
+}

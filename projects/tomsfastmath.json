@@ -1,0 +1,12 @@
+{
+  "name": "TomsFastMath",
+  "homepage": "https://www.libtom.net/TomsFastMath/",
+  "shortdesc": {
+    "en": "A fast large integer arithmetic library written in portable ISO C."
+  },
+  "repository": {
+    "browse": "https://github.com/libtom/tomsfastmath",
+    "location": "https://github.com/libtom/tomsfastmath.git"
+  },
+  "license": "https://github.com/libtom/tomsfastmath/blob/develop/LICENSE"
+}

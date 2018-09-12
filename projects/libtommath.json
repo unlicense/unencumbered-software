@@ -1,0 +1,12 @@
+{
+  "name": "LibTomMath",
+  "homepage": "https://www.libtom.net/LibTomMath/",
+  "shortdesc": {
+    "en": "A portable number theoretic multiple-precision integer library written entirely in C."
+  },
+  "repository": {
+    "browse": "https://github.com/libtom/libtommath",
+    "location": "https://github.com/libtom/libtommath.git"
+  },
+  "license": "https://github.com/libtom/libtommath/blob/develop/LICENSE"
+}

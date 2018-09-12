@@ -1,0 +1,12 @@
+{
+  "name": "LibTomCrypt",
+  "homepage": "https://www.libtom.net/LibTomCrypt/",
+  "shortdesc": {
+    "en": "A fairly comprehensive, modular and portable cryptographic toolkit."
+  },
+  "repository": {
+    "browse": "https://github.com/libtom/libtomcrypt",
+    "location": "https://github.com/libtom/libtomcrypt.git"
+  },
+  "license": "https://github.com/libtom/libtomcrypt/blob/develop/LICENSE"
+}

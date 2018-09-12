@@ -1,0 +1,12 @@
+{
+  "name": "LibTomFloat",
+  "homepage": "https://www.libtom.net/LibTomFloat/",
+  "shortdesc": {
+    "en": "A library that provides multiple precision floating point arithmetic."
+  },
+  "repository": {
+    "browse": "https://github.com/libtom/libtomfloat",
+    "location": "https://github.com/libtom/libtomfloat.git"
+  },
+  "license": "https://github.com/libtom/libtomfloat/blob/master/LICENSE"
+}
