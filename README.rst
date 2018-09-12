@@ -6,7 +6,7 @@ This is a collaborative metadata registry of `unencumbered
 <http://ar.to/2010/01/dissecting-the-unlicense>`__ public-domain software
 projects. That encompasses all projects using the
 `Unlicense <https://unlicense.org>`__,
-`Creative Commons Zero <https://creativecommons.org/publicdomain/zero/1.0/>`__,
+`Creative Commons Zero (CC0) <https://creativecommons.org/publicdomain/zero/1.0/>`__,
 or a plain old public-domain dedication.
 
 Project metadata are described in JSON format, one file per project,
@@ -15,8 +15,12 @@ utilizing terms from the `DOAP (Description of a Project)
 
 All material in this repository is itself in the public domain.
 
-Example Project
-===============
+Example Project Description
+===========================
+
+See `projects/sqlite.json
+<https://github.com/unlicense/unencumbered-software/blob/master/projects/sqlite.json>`__
+for an example of how to describe a project:
 
 .. code-block:: json
 
