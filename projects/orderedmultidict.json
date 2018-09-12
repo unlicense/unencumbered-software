@@ -1,0 +1,12 @@
+{
+  "name": "orderedmultidict",
+  "homepage": "https://github.com/gruns/orderedmultidict",
+  "shortdesc": {
+    "en": "An ordered multivalue dictionary."
+  },
+  "repository": {
+    "browse": "https://github.com/gruns/orderedmultidict",
+    "location": "https://github.com/gruns/orderedmultidict.git"
+  },
+  "license": "https://github.com/gruns/orderedmultidict/blob/master/LICENSE.md"
+}
