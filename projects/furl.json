@@ -1,0 +1,12 @@
+{
+  "name": "furl",
+  "homepage": "https://github.com/gruns/furl",
+  "shortdesc": {
+    "en": "URL parsing and manipulation made easy."
+  },
+  "repository": {
+    "browse": "https://github.com/gruns/furl",
+    "location": "https://github.com/gruns/furl.git"
+  },
+  "license": "https://github.com/gruns/furl/blob/master/LICENSE.md"
+}
