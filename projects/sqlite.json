@@ -1,0 +1,12 @@
+{
+  "name": "SQLite",
+  "homepage": "https://sqlite.org",
+  "shortdesc": {
+    "en": "The most used database engine in the world."
+  },
+  "repository": {
+    "browse": "https://sqlite.org/src",
+    "location": "http://sqlite.org/cgi/src"
+  },
+  "license": "https://sqlite.org/copyright.html"
+}
