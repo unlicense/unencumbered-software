@@ -1,0 +1,12 @@
+{
+  "name": "stb",
+  "homepage": "https://github.com/nothings/stb",
+  "shortdesc": {
+    "en": "Single-file public domain libraries for C/C++."
+  },
+  "repository": {
+    "browse": "https://github.com/nothings/stb",
+    "location": "https://github.com/nothings/stb.git"
+  },
+  "license": "https://github.com/nothings/stb/blob/master/docs/why_public_domain.md"
+}
