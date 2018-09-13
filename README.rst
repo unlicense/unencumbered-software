@@ -47,3 +47,14 @@ Q: Will you accept WTFPL or 0BSD projects?
 maximally-permissive copyright licenses.
 Please see `Licensed, License-Free, and Unlicensed Code
 <http://ar.to/2010/12/licensing-and-unlicensing>`__.
+
+See Also
+========
+
+- `nothings/single_file_libs
+  <https://github.com/nothings/single_file_libs>`__:
+  single-file public-domain C/C++ libraries with minimal dependencies
+
+- `johnjago/awesome-uncopyright
+  <https://github.com/johnjago/awesome-uncopyright>`__:
+  a curated list of works in the public domain
