@@ -1,0 +1,12 @@
+{
+  "name": "asciiart",
+  "homepage": "https://github.com/frankbraun/asciiart",
+  "shortdesc": {
+    "en": "Parser for hierarchical ASCII art."
+  },
+  "repository": {
+    "browse": "https://github.com/frankbraun/asciiart",
+    "location": "https://github.com/frankbraun/asciiart.git"
+  },
+  "license": "https://github.com/frankbraun/asciiart/blob/master/UNLICENSE"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "gosignify",
+  "homepage": "https://github.com/frankbraun/gosignify",
+  "shortdesc": {
+    "en": "A Go reimplementation of OpenBSD's signify."
+  },
+  "repository": {
+    "browse": "https://github.com/frankbraun/gosignify",
+    "location": "https://github.com/frankbraun/gosignify.git"
+  },
+  "license": "https://github.com/frankbraun/gosignify/blob/master/UNLICENSE"
+}
