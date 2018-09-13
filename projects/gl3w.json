@@ -1,0 +1,12 @@
+{
+  "name": "gl3w",
+  "homepage": "https://github.com/skaslev/gl3w",
+  "shortdesc": {
+    "en": "Simple OpenGL core profile loader."
+  },
+  "repository": {
+    "browse": "https://github.com/skaslev/gl3w",
+    "location": "https://github.com/skaslev/gl3w.git"
+  },
+  "license": "http://unlicense.org"
+}
