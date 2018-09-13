@@ -10,8 +10,12 @@ projects. That encompasses all projects using the
 or a plain old public-domain dedication.
 
 Project metadata are described in JSON format, one file per project,
-utilizing terms from the `DOAP (Description of a Project)
+utilizing the terms from the `DOAP (Description of a Project)
 <https://github.com/ewilderj/doap>`__ schema.
+
+The current plan is that this project metadata will be made available in
+HTML, JSON, and `JSON-LD <https://en.wikipedia.org/wiki/JSON-LD>`__ format
+at `Unlicense.org <https://unlicense.org>`__ going forward.
 
 All material in this repository is itself in the public domain.
 
@@ -40,6 +44,12 @@ for an example of how to describe a project:
 Frequently Asked Questions
 ==========================
 
+Q: How can I suggest a project without submitting a pull request?
+-----------------------------------------------------------------
+
+**A:** To just suggest a project addition, please tweet at
+`@TheUnlicense <https://twitter.com/theunlicense>`__ on Twitter.
+
 Q: Will you accept WTFPL or 0BSD projects?
 ------------------------------------------
 
@@ -47,6 +57,13 @@ Q: Will you accept WTFPL or 0BSD projects?
 maximally-permissive copyright licenses.
 Please see `Licensed, License-Free, and Unlicensed Code
 <http://ar.to/2010/12/licensing-and-unlicensing>`__.
+
+Q: Will you accept non-software projects in the public domain?
+--------------------------------------------------------------
+
+**A:** No, not in this registry. Consider submitting non-software projects
+to `johnjago/awesome-uncopyright
+<https://github.com/johnjago/awesome-uncopyright>`__ instead.
 
 See Also
 ========
