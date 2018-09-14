@@ -1,0 +1,12 @@
+{
+  "name": "KatWeb",
+  "homepage": "https://github.com/kittyhacker101/KatWeb",
+  "shortdesc": {
+    "en": "A lightweight static web server and reverse proxy designed for the modern web."
+  },
+  "repository": {
+    "browse": "https://github.com/kittyhacker101/KatWeb",
+    "location": "https://github.com/kittyhacker101/KatWeb.git"
+  },
+  "license": "https://github.com/kittyhacker101/KatWeb/blob/master/LICENSE"
+}
