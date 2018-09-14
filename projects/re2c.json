@@ -1,0 +1,12 @@
+{
+  "name": "re2c",
+  "homepage": "http://re2c.org/",
+  "shortdesc": {
+    "en": "A high-performance lexer generator for C and C++."
+  },
+  "repository": {
+    "browse": "https://github.com/skvadrik/re2c",
+    "location": "https://github.com/skvadrik/re2c.git"
+  },
+  "license": "https://github.com/skvadrik/re2c/blob/master/libre2c/COPYING"
+}
