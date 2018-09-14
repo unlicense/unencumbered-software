@@ -1,0 +1,9 @@
+{
+  "name": "Lemon",
+  "homepage": "http://www.hwaci.com/sw/lemon/",
+  "shortdesc": {
+    "en": "A thread-safe LALR(1) parser generator."
+  },
+  "repository": null,
+  "license": "http://www.hwaci.com/sw/lemon/"
+}
