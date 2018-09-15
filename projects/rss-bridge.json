@@ -1,0 +1,12 @@
+{
+  "name": "RSS-Bridge",
+  "homepage": "https://github.com/RSS-Bridge",
+  "shortdesc": {
+    "en": "A PHP project capable of generating ATOM feeds for websites who don't have one."
+  },
+  "repository": {
+    "browse": "https://github.com/RSS-Bridge/rss-bridge",
+    "location": "https://github.com/RSS-Bridge/rss-bridge.git"
+  },
+  "license": "https://github.com/RSS-Bridge/rss-bridge/blob/master/UNLICENSE"
+}
