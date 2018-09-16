@@ -3,7 +3,7 @@ Registry of Unencumbered Software Projects
 ******************************************
 
 This is a collaborative metadata registry of `unencumbered
-<http://ar.to/2010/01/dissecting-the-unlicense>`__ public-domain software
+<https://ar.to/2010/01/dissecting-the-unlicense>`__ public-domain software
 projects. That encompasses all projects using the
 `Unlicense <https://unlicense.org>`__,
 `Creative Commons Zero (CC0) <https://creativecommons.org/publicdomain/zero/1.0/>`__,
@@ -56,7 +56,7 @@ Q: Will you accept WTFPL or 0BSD projects?
 **A:** No, as these are not public-domain dedications but rather
 maximally-permissive copyright licenses.
 Please see `Licensed, License-Free, and Unlicensed Code
-<http://ar.to/2010/12/licensing-and-unlicensing>`__.
+<https://ar.to/2010/12/licensing-and-unlicensing>`__.
 
 Q: Will you accept non-software projects in the public domain?
 --------------------------------------------------------------
