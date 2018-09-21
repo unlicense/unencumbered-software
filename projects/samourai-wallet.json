@@ -1,0 +1,12 @@
+{
+  "name": "Samourai Wallet",
+  "homepage": "https://samouraiwallet.com/",
+  "shortdesc": {
+    "en": "Samourai Bitcoin wallet for Android."
+  },
+  "repository": {
+    "browse": "https://github.com/Samourai-Wallet/samourai-wallet-android",
+    "location": "https://github.com/Samourai-Wallet/samourai-wallet-android.git"
+  },
+  "license": "https://github.com/Samourai-Wallet/samourai-wallet-android/blob/develop/LICENSE"
+}
