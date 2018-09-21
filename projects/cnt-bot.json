@@ -1,0 +1,12 @@
+{
+  "name": "CNT Bot",
+  "homepage": "http://cntbot.org/",
+  "shortdesc": {
+    "en": "IRC bot for delegating, voting and polling."
+  },
+  "repository": {
+    "browse": "https://bitbucket.org/naryl/cnt-tcl",
+    "location": "https://bitbucket.org/naryl/cnt-tcl"
+  },
+  "license": "https://bitbucket.org/naryl/cnt-tcl/src/default/UNLICENSE.txt"
+}
