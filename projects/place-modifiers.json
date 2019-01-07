@@ -1,0 +1,12 @@
+{
+  "name": "place-modifiers",
+  "homepage": "https://www.hexstreamsoft.com/libraries/place-modifiers/",
+  "shortdesc": {
+    "en": "Essentially gives access to hundreds of modify-macros through one single macro: MODIFY."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/place-modifiers",
+    "location": "https://github.com/Hexstream/place-modifiers.git"
+  },
+  "license": "https://github.com/Hexstream/place-modifiers/blob/master/UNLICENSE"
+}

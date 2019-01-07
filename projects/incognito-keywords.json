@@ -1,0 +1,12 @@
+{
+  "name": "incognito-keywords",
+  "homepage": "https://www.hexstreamsoft.com/libraries/incognito-keywords/",
+  "shortdesc": {
+    "en": "Introduces a new kind of keyword that looks just like any non-keyword symbol and allows safe usage of convenient but clashy symbol names by multiple libraries without conflicts through sharing. Some names that might benefit are (alist blist plist macro operator index &doc &decl &rest+ &destructure &ignored &ignorable)."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/incognito-keywords",
+    "location": "https://github.com/Hexstream/incognito-keywords.git"
+  },
+  "license": "https://github.com/Hexstream/incognito-keywords/blob/master/UNLICENSE"
+}

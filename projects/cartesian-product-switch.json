@@ -1,0 +1,12 @@
+{
+  "name": "cartesian-product-switch",
+  "homepage": "https://www.hexstreamsoft.com/libraries/cartesian-product-switch/",
+  "shortdesc": {
+    "en": "A macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/cartesian-product-switch",
+    "location": "https://github.com/Hexstream/cartesian-product-switch.git"
+  },
+  "license": "https://github.com/Hexstream/cartesian-product-switch/blob/master/UNLICENSE"
+}

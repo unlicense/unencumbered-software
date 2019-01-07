@@ -1,0 +1,12 @@
+{
+  "name": "parse-number-range",
+  "homepage": "https://www.hexstreamsoft.com/libraries/parse-number-range/",
+  "shortdesc": {
+    "en": "Parses LOOP's convenient \"for-as-arithmetic\" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/parse-number-range",
+    "location": "https://github.com/Hexstream/parse-number-range.git"
+  },
+  "license": "https://github.com/Hexstream/parse-number-range/blob/master/UNLICENSE"
+}

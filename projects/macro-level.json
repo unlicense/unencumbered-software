@@ -1,0 +1,12 @@
+{
+  "name": "macro-level",
+  "homepage": "https://www.hexstreamsoft.com/libraries/macro-level/",
+  "shortdesc": {
+    "en": "An embarassingly trivial convenience macro that saves on indentation while being more concise and direct. (macro-level ...) == (macrolet ((m () ...)) (m))"
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/macro-level",
+    "location": "https://github.com/Hexstream/macro-level.git"
+  },
+  "license": "https://github.com/Hexstream/macro-level/blob/master/UNLICENSE"
+}

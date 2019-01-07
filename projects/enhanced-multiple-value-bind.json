@@ -1,0 +1,12 @@
+{
+  "name": "enhanced-multiple-value-bind",
+  "homepage": "https://www.hexstreamsoft.com/libraries/enhanced-multiple-value-bind/",
+  "shortdesc": {
+    "en": "Provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &rest and &key much more lightweight and convenient. A MULTIPLE-VALUE-&BIND alias is supported."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/enhanced-multiple-value-bind",
+    "location": "https://github.com/Hexstream/enhanced-multiple-value-bind.git"
+  },
+  "license": "https://github.com/Hexstream/enhanced-multiple-value-bind/blob/master/UNLICENSE"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "map-bind",
+  "homepage": "https://www.hexstreamsoft.com/libraries/map-bind/",
+  "shortdesc": {
+    "en": "A macro that allows visual grouping of variables with their corresponding values (not necessarily 1:1) in calls to mapping operators when using an inline LAMBDA. It does so in a way that automatically supports virtually every existing and future mapping operator, all lambda keywords and FUNCALL/APPLY/MULTIPLE-VALUE-CALL variations."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/map-bind",
+    "location": "https://github.com/Hexstream/map-bind.git"
+  },
+  "license": "https://github.com/Hexstream/map-bind/blob/master/UNLICENSE"
+}

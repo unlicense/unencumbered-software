@@ -1,0 +1,12 @@
+{
+  "name": "its",
+  "homepage": "https://www.hexstreamsoft.com/libraries/its/",
+  "shortdesc": {
+    "en": "Provides convenient access to multiple values of an object in a concise, explicit and efficient way."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/its",
+    "location": "https://github.com/Hexstream/its.git"
+  },
+  "license": "https://github.com/Hexstream/its/blob/master/UNLICENSE"
+}
