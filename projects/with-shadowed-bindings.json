@@ -1,0 +1,12 @@
+{
+  "name": "with-shadowed-bindings",
+  "homepage": "https://www.hexstreamsoft.com/libraries/with-shadowed-bindings/",
+  "shortdesc": {
+    "en": "Establishes a new lexical context within which specified bindings are explicitly shadowed, making it clear that they are not referenced within, thereby reducing cognitive load."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/with-shadowed-bindings",
+    "location": "https://github.com/Hexstream/with-shadowed-bindings.git"
+  },
+  "license": "https://github.com/Hexstream/with-shadowed-bindings/blob/master/UNLICENSE"
+}

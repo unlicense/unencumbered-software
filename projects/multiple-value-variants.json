@@ -1,0 +1,12 @@
+{
+  "name": "multiple-value-variants",
+  "homepage": "https://www.hexstreamsoft.com/libraries/multiple-value-variants/",
+  "shortdesc": {
+    "en": "Gives access to multiple-value variants of operators through one macro: MULTIPLE-VALUE. There are built-in variants for some standard operators; it's easy to create your own variants for other operators. The multiple-value mapping operators are especially useful."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/multiple-value-variants",
+    "location": "https://github.com/Hexstream/multiple-value-variants.git"
+  },
+  "license": "https://github.com/Hexstream/multiple-value-variants/blob/master/UNLICENSE"
+}

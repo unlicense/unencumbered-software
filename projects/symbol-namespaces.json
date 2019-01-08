@@ -1,0 +1,12 @@
+{
+  "name": "symbol-namespaces",
+  "homepage": "https://www.hexstreamsoft.com/libraries/symbol-namespaces/",
+  "shortdesc": {
+    "en": "Defines a new kind of package that's named by a symbol rather than a string and that maps from existing symbols to their respective \"implicitly managed\" counterparts. The motivating use-case is to conceptually allow multiple definitions of the same kind on a single symbol, without conflicts."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/symbol-namespaces",
+    "location": "https://github.com/Hexstream/symbol-namespaces.git"
+  },
+  "license": "https://github.com/Hexstream/symbol-namespaces/blob/master/UNLICENSE"
+}

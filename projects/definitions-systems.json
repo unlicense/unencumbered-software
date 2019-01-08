@@ -1,0 +1,12 @@
+{
+  "name": "definitions-systems",
+  "homepage": "https://www.hexstreamsoft.com/libraries/definitions-systems/",
+  "shortdesc": {
+    "en": "Provides a simple unified extensible way of processing named definitions."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/definitions-systems",
+    "location": "https://github.com/Hexstream/definitions-systems.git"
+  },
+  "license": "https://github.com/Hexstream/definitions-systems/blob/master/UNLICENSE"
+}

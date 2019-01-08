@@ -1,0 +1,12 @@
+{
+  "name": "trivial-jumptables",
+  "homepage": "https://www.hexstreamsoft.com/libraries/trivial-jumptables/",
+  "shortdesc": {
+    "en": "Provides efficient O(1) jumptables on supported Common Lisp implementations and falls back to O(log(n)) on others."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/trivial-jumptables",
+    "location": "https://github.com/Hexstream/trivial-jumptables.git"
+  },
+  "license": "https://github.com/Hexstream/trivial-jumptables/blob/master/UNLICENSE"
+}

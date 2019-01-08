@@ -1,0 +1,12 @@
+{
+  "name": "place-utils",
+  "homepage": "https://www.hexstreamsoft.com/libraries/place-utils/",
+  "shortdesc": {
+    "en": "Provides a few utilities relating to setfable places."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/place-utils",
+    "location": "https://github.com/Hexstream/place-utils.git"
+  },
+  "license": "https://github.com/Hexstream/place-utils/blob/master/UNLICENSE"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "positional-lambda",
+  "homepage": "https://www.hexstreamsoft.com/libraries/positional-lambda/",
+  "shortdesc": {
+    "en": "A concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical \"gaps\" are left in the positional references. Further convenience features are provided."
+  },
+  "repository": {
+    "browse": "https://github.com/Hexstream/positional-lambda",
+    "location": "https://github.com/Hexstream/positional-lambda.git"
+  },
+  "license": "https://github.com/Hexstream/positional-lambda/blob/master/UNLICENSE"
+}
