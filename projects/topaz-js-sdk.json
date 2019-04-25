@@ -1,0 +1,12 @@
+{
+  "name": "topaz-js-sdk",
+  "homepage": "https://topaz.io",
+  "shortdesc": {
+    "en": "Javascript SDK for the Topaz API"
+  },
+  "repository": {
+    "browse": "https://github.com/decentorganization/topaz-js-sdk",
+    "location": "https://github.com/decentorganization/topaz-js-sdk.git"
+  },
+  "license": "https://github.com/decentorganization/topaz-js-sdk/blob/master/UNLICENSE"
+}
