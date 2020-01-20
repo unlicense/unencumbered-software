@@ -1,0 +1,12 @@
+{
+  "name": "ruby-native-statistics",
+  "homepage": "https://github.com/corybuecker/ruby-native-statistics",
+  "shortdesc": {
+    "en": "A set of native (C) extensions for Ruby to handle common statistical operations."
+  },
+  "repository": {
+    "browse": "https://github.com/corybuecker/ruby-native-statistics",
+    "location": "https://github.com/corybuecker/ruby-native-statistics.git"
+  },
+  "license": "https://github.com/corybuecker/ruby-native-statistics/blob/master/UNLICENSE"
+}
