@@ -1,0 +1,12 @@
+{
+  "name": "nerd_dice",
+  "homepage": "https://statelesscode.com/nerd_dice",
+  "shortdesc": {
+    "en": "A Ruby Gem for rolling polyhedral dice."
+  },
+  "repository": {
+    "browse": "https://github.com/statelesscode/nerd_dice",
+    "location": "https://github.com/statelesscode/nerd_dice.git"
+  },
+  "license": "https://github.com/statelesscode/nerd_dice/blob/master/UNLICENSE.txt"
+}
