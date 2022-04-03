@@ -1,0 +1,13 @@
+{
+  "name": "Coffee CMS",
+  "homepage": "https://coffee-cms.com/",
+  "shortdesc": {
+    "en": "Lightweight open source CMS."
+    "ru": "Легкая CMS с открытым исходным кодом."
+  },
+  "repository": {
+    "browse": "https://github.com/coffee-cms/coffee-cms",
+    "location": "https://github.com/coffee-cms/coffee-cms.git"
+  },
+  "license": "https://github.com/coffee-cms/coffee-cms/blob/main/.cms/.unlicense.txt"
+}
