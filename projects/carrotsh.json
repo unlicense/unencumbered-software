@@ -1,0 +1,12 @@
+{
+  "name": "carrotsh",
+  "homepage": "https://github.com/AnnikaV9/carrotsh",
+  "shortdesc": {
+    "en": "A lighweight and secure remote access server that can be connected to through a browser."
+  },
+  "repository": {
+    "browse": "https://github.com/AnnikaV9/carrotsh",
+    "location": "https://github.com/AnnikaV9/carrotsh.git"
+  },
+  "license": "https://raw.githubusercontent.com/AnnikaV9/carrotsh/master/LICENSE"
+}
