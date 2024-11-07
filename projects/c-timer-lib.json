@@ -1,0 +1,12 @@
+{
+  "name": "c-timer-lib",
+  "homepage": "https://github.com/HighPerLab/c-timer-lib",
+  "shortdesc": {
+    "en": "A C/C++ interface to system/hardware clocks for high-precision time measurements."
+  },
+  "repository": {
+    "browse": "https://github.com/HighPerLab/c-timer-lib",
+    "location": "https://github.com/HighPerLab/c-timer-lib.git"
+  },
+  "license": "https://github.com/HighPerLab/c-timer-lib/blob/master/LICENSE.md"
+}
