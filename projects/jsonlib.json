@@ -1,0 +1,12 @@
+{
+  "name": "jsonlib",
+  "homepage": "https://github.com/WaterJuice/JsonLib",
+  "shortdesc": {
+    "en": "This C library provides a simple mechanism for marshalling and unmarshalling C structures to and from JSON or JSON5."
+  },
+  "repository": {
+    "browse": "https://github.com/WaterJuice/JsonLib",
+    "location": "https://github.com/WaterJuice/JsonLib.git"
+  },
+  "license": "https://github.com/WaterJuice/JsonLib/blob/master/UNLICENSE"
+}
