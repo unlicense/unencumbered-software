@@ -15,7 +15,10 @@ The current plan is that this project metadata will be made available in
 HTML, JSON, and [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) format
 at [Unlicense.org](https://unlicense.org) going forward.
 
-All material in this repository is itself in the public domain.
+> [!NOTE]
+> The project showcase on the Unlicense.org front page is meant as a curated
+> collection of popular, high-quality software projects. The inclusion of a
+> project in this registry is no guarantee of getting listed as a showcase.
 
 ## Example Project Description
 
@@ -42,8 +45,10 @@ for an example of how to describe a project:
 
 ### Q: How can I suggest a project without submitting a pull request?
 
-**A:** To just suggest a project addition, please tweet at
-[@TheUnlicense](https://twitter.com/theunlicense) on Twitter.
+**A:** To just suggest a project addition, kindly tweet at
+[@bendiken](https://x.com/bendiken) on X (formerly known as Twitter).
+We do not want a long backlog and clutter of unimplemented, drive-by issues
+here; hence this repository accepts only pull requests, not issues.
 
 ### Q: Will you accept WTFPL or 0BSD projects?
 
@@ -65,3 +70,9 @@ instead.
   single-file public-domain C/C++ libraries with minimal dependencies
 - [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright):
   a curated list of works in the public domain
+  ([our fork](https://github.com/unlicense/awesome-uncopyright))
+
+## Contributions
+
+> [!TIP]
+> All material in this repository is itself placed in the public domain.
