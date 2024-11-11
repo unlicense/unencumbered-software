@@ -1,0 +1,12 @@
+{
+  "name": "Nightweb",
+  "homepage": "https://sekao.net/nightweb/",
+  "shortdesc": {
+    "en": "An anonymous P2P social network in Clojure."
+  },
+  "repository": {
+    "browse": "https://github.com/oakes/Nightweb",
+    "location": "https://github.com/oakes/Nightweb.git"
+  },
+  "license": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE"
+}
