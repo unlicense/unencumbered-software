@@ -16,7 +16,6 @@
 | [incognito-keywords](https://www.hexstreamsoft.com/libraries/incognito-keywords/) | Introduces a new kind of keyword that looks just like any non-keyword symbol and allows safe usage of convenient but clashy symbol names by multiple libraries without conflicts through sharing. Some names that might benefit are (alist blist plist macro operator index &doc &decl &rest+ &destructure &ignored &ignorable). |
 | [its](https://www.hexstreamsoft.com/libraries/its/) | Provides convenient access to multiple values of an object in a concise, explicit and efficient way. |
 | [jsonlib](https://github.com/WaterJuice/JsonLib) | This C library provides a simple mechanism for marshalling and unmarshalling C structures to and from JSON or JSON5. |
-| [KatWeb](https://github.com/kittyhacker101/KatWeb) | A lightweight static web server and reverse proxy designed for the modern web. |
 | [Lemon](http://www.hwaci.com/sw/lemon/) | A thread-safe LALR(1) parser generator. |
 | [LibTomCrypt](https://www.libtom.net/LibTomCrypt/) | A fairly comprehensive, modular and portable cryptographic toolkit. |
 | [LibTomFloat](https://www.libtom.net/LibTomFloat/) | A library that provides multiple precision floating point arithmetic. |
@@ -25,7 +24,7 @@
 | [macro-level](https://www.hexstreamsoft.com/libraries/macro-level/) | An embarassingly trivial convenience macro that saves on indentation while being more concise and direct. (macro-level ...) == (macrolet ((m () ...)) (m)) |
 | [map-bind](https://www.hexstreamsoft.com/libraries/map-bind/) | A macro that allows visual grouping of variables with their corresponding values (not necessarily 1:1) in calls to mapping operators when using an inline LAMBDA. It does so in a way that automatically supports virtually every existing and future mapping operator, all lambda keywords and FUNCALL/APPLY/MULTIPLE-VALUE-CALL variations. |
 | [multiple-value-variants](https://www.hexstreamsoft.com/libraries/multiple-value-variants/) | Gives access to multiple-value variants of operators through one macro: MULTIPLE-VALUE. There are built-in variants for some standard operators; it's easy to create your own variants for other operators. The multiple-value mapping operators are especially useful. |
-| [nerd_dice](https://statelesscode.com/nerd_dice) | A Ruby Gem for rolling polyhedral dice. |
+| [nerd_dice](https://github.com/statelesscode/nerd_dice) | A Ruby Gem for rolling polyhedral dice. |
 | [Nightweb](https://sekao.net/nightweb/) | An anonymous P2P social network in Clojure. |
 | [orderedmultidict](https://github.com/gruns/orderedmultidict) | An ordered multivalue dictionary. |
 | [parse-number-range](https://www.hexstreamsoft.com/libraries/parse-number-range/) | Parses LOOP's convenient "for-as-arithmetic" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs. |
@@ -35,7 +34,7 @@
 | [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. |
 | [re2c](http://re2c.org/) | A high-performance lexer generator for C and C++. |
 | [RSS-Bridge](https://github.com/RSS-Bridge) | A PHP project capable of generating ATOM feeds for websites who don't have one. |
-| [Samourai Wallet](https://samouraiwallet.com/) | Samourai Bitcoin wallet for Android. |
+| [Samourai Wallet](https://github.com/Samourai-Wallet) | Samourai Bitcoin wallet for Android. |
 | [SQLite](https://sqlite.org) | The most used database engine in the world. |
 | [stb](https://github.com/nothings/stb) | Single-file public domain libraries for C/C++. |
 | [symbol-namespaces](https://www.hexstreamsoft.com/libraries/symbol-namespaces/) | Defines a new kind of package that's named by a symbol rather than a string and that maps from existing symbols to their respective "implicitly managed" counterparts. The motivating use-case is to conceptually allow multiple definitions of the same kind on a single symbol, without conflicts. |

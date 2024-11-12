@@ -192,18 +192,6 @@
     "license": "https://github.com/WaterJuice/JsonLib/blob/master/UNLICENSE"
   },
   {
-    "name": "KatWeb",
-    "homepage": "https://github.com/kittyhacker101/KatWeb",
-    "shortdesc": {
-      "en": "A lightweight static web server and reverse proxy designed for the modern web."
-    },
-    "repository": {
-      "browse": "https://github.com/kittyhacker101/KatWeb",
-      "location": "https://github.com/kittyhacker101/KatWeb.git"
-    },
-    "license": "https://github.com/kittyhacker101/KatWeb/blob/master/LICENSE"
-  },
-  {
     "name": "Lemon",
     "homepage": "http://www.hwaci.com/sw/lemon/",
     "shortdesc": {
@@ -298,7 +286,7 @@
   },
   {
     "name": "nerd_dice",
-    "homepage": "https://statelesscode.com/nerd_dice",
+    "homepage": "https://github.com/statelesscode/nerd_dice",
     "shortdesc": {
       "en": "A Ruby Gem for rolling polyhedral dice."
     },
@@ -418,7 +406,7 @@
   },
   {
     "name": "Samourai Wallet",
-    "homepage": "https://samouraiwallet.com/",
+    "homepage": "https://github.com/Samourai-Wallet",
     "shortdesc": {
       "en": "Samourai Bitcoin wallet for Android."
     },
