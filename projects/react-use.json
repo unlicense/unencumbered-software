@@ -1,0 +1,12 @@
+{
+  "name": "react-use",
+  "homepage": "https://streamich.github.io/react-use/",
+  "shortdesc": {
+    "en": "A collection of essential React Hooks."
+  },
+  "repository": {
+    "browse": "https://github.com/streamich/react-use",
+    "location": "https://github.com/streamich/react-use.git"
+  },
+  "license": "https://github.com/streamich/react-use/blob/master/LICENSE"
+}
