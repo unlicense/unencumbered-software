@@ -32,8 +32,8 @@ end
 
 def generate_markdown(input_paths)
   StringIO.open do |out|
-    out.puts "| Project | Summary | Repository |"
-    out.puts "| :------ | :------ | :--------- |"
+    out.puts "| Project | Summary | Code |"
+    out.puts "| :------ | :------ | ---: |"
     load_projects(input_paths).each do |project|
       project_name = project['name']
       project_link = "[#{project_name}](#{project['homepage']})"
@@ -42,11 +42,12 @@ def generate_markdown(input_paths)
       project_vcs = case
         when project_repo.nil? then 'N/A'
         when project_repo['browse'].start_with?('https://github.com')
-          "[GitHub](#{project_repo['browse']})"
+          #"[:octocat:](#{project_repo['browse']})" # TODO: support in VitePress
+          "[:link:](#{project_repo['browse']})"
         when project_repo['browse'].start_with?('https://bitbucket.org')
-          "[Bitbucket](#{project_repo['browse']})"
+          "[:link:](#{project_repo['browse']})"
         else
-          "[Other](#{project_repo['browse']})"
+          "[:link:](#{project_repo['browse']})"
       end
       out.puts "| " + [project_link, project_desc, project_vcs].join(" | ") + " |"
     end
