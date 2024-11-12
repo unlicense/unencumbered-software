@@ -5,7 +5,9 @@
 | [bubble-operator-upwards](https://www.hexstreamsoft.com/libraries/bubble-operator-upwards/) | A function that "bubbles an operator upwards" in a form, demultiplexing all alternative branches by way of cartesian product. This operation is notably useful for easy implementation of certain kinds of shorthand notations in macros. A cartesian-product function is also exported, as it's needed to implement the main function. |
 | [c-timer-lib](https://github.com/HighPerLab/c-timer-lib) | A C/C++ interface to system/hardware clocks for high-precision time measurements. |
 | [cartesian-product-switch](https://www.hexstreamsoft.com/libraries/cartesian-product-switch/) | A macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to. |
+| [Clientele.rs](https://crates.io/crates/clientele) | Makes it easy to write superb command-line utilities in Rust that follow consistent best practices on Linux, macOS, and Windows. |
 | [CNT Bot](http://cntbot.org/) | IRC bot for delegating, voting and polling. |
+| [Codify.rs](https://crates.io/crates/codify) | Translates between types from different programming languages. |
 | [definitions-systems](https://www.hexstreamsoft.com/libraries/definitions-systems/) | Provides a simple unified extensible way of processing named definitions. |
 | [enhanced-eval-when](https://www.hexstreamsoft.com/libraries/enhanced-eval-when/) | Provides an enhanced EVAL-WHEN macro that supports (eval-when t ...) as a shorthand for (eval-when (:compile-toplevel :load-toplevel :execute) ...), addressing concerns about verbosity. An ENHANCED-EVAL-WHEN alias is also supported, as well as an EVAL-ALWAYS macro and package nickname, for good measure. |
 | [enhanced-multiple-value-bind](https://www.hexstreamsoft.com/libraries/enhanced-multiple-value-bind/) | Provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &rest and &key much more lightweight and convenient. A MULTIPLE-VALUE-&BIND alias is supported. |
@@ -33,6 +35,7 @@
 | [positional-lambda](https://www.hexstreamsoft.com/libraries/positional-lambda/) | A concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical "gaps" are left in the positional references. Further convenience features are provided. |
 | [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. |
 | [re2c](http://re2c.org/) | A high-performance lexer generator for C and C++. |
+| [react-use](https://streamich.github.io/react-use/) | A collection of essential React Hooks. |
 | [RSS-Bridge](https://github.com/RSS-Bridge) | A PHP project capable of generating ATOM feeds for websites who don't have one. |
 | [Samourai Wallet](https://github.com/Samourai-Wallet) | Samourai Bitcoin wallet for Android. |
 | [SQLite](https://sqlite.org) | The most used database engine in the world. |

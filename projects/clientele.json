@@ -1,0 +1,12 @@
+{
+  "name": "Clientele.rs",
+  "homepage": "https://crates.io/crates/clientele",
+  "shortdesc": {
+    "en": "Makes it easy to write superb command-line utilities in Rust that follow consistent best practices on Linux, macOS, and Windows."
+  },
+  "repository": {
+    "browse": "https://github.com/artob/clientele.rs",
+    "location": "https://github.com/artob/clientele.rs.git"
+  },
+  "license": "https://github.com/artob/clientele.rs/blob/master/UNLICENSE"
+}

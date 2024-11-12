@@ -1,0 +1,12 @@
+{
+  "name": "Codify.rs",
+  "homepage": "https://crates.io/crates/codify",
+  "shortdesc": {
+    "en": "Translates between types from different programming languages."
+  },
+  "repository": {
+    "browse": "https://github.com/artob/codify.rs",
+    "location": "https://github.com/artob/codify.rs.git"
+  },
+  "license": "https://github.com/artob/codify.rs/blob/master/UNLICENSE"
+}
