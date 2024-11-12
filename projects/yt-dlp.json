@@ -1,0 +1,12 @@
+{
+  "name": "yt-dlp",
+  "homepage": "https://github.com/yt-dlp/yt-dlp",
+  "shortdesc": {
+    "en": "A feature-rich command-line audio/video downloader."
+  },
+  "repository": {
+    "browse": "https://github.com/yt-dlp/yt-dlp",
+    "location": "https://github.com/yt-dlp/yt-dlp.git"
+  },
+  "license": "https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE"
+}

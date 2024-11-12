@@ -1,0 +1,12 @@
+{
+  "name": "ripgrep",
+  "homepage": "https://github.com/BurntSushi/ripgrep",
+  "shortdesc": {
+    "en": "A line-oriented search tool that recursively searches the current directory for a regex pattern."
+  },
+  "repository": {
+    "browse": "https://github.com/BurntSushi/ripgrep",
+    "location": "https://github.com/BurntSushi/ripgrep.git"
+  },
+  "license": "https://github.com/BurntSushi/ripgrep/blob/master/UNLICENSE"
+}

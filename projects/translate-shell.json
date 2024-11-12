@@ -1,0 +1,12 @@
+{
+  "name": "Translate Shell",
+  "homepage": "https://www.soimort.org/translate-shell/",
+  "shortdesc": {
+    "en": "A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium."
+  },
+  "repository": {
+    "browse": "https://github.com/soimort/translate-shell",
+    "location": "https://github.com/soimort/translate-shell.git"
+  },
+  "license": "https://github.com/soimort/translate-shell/blob/develop/LICENSE"
+}

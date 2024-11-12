@@ -1,0 +1,12 @@
+{
+  "name": "NearDrop",
+  "homepage": "https://github.com/grishka/NearDrop",
+  "shortdesc": {
+    "en": "A partial implementation of Google's Nearby Share/Quick Share for macOS."
+  },
+  "repository": {
+    "browse": "https://github.com/grishka/NearDrop",
+    "location": "https://github.com/grishka/NearDrop.git"
+  },
+  "license": "https://github.com/grishka/NearDrop/blob/master/UNLICENSE"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pytube",
+  "homepage": "https://pytube.io",
+  "shortdesc": {
+    "en": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos."
+  },
+  "repository": {
+    "browse": "https://github.com/pytube/pytube",
+    "location": "https://github.com/pytube/pytube.git"
+  },
+  "license": "https://github.com/pytube/pytube/blob/master/LICENSE"
+}

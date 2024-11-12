@@ -1,0 +1,12 @@
+{
+  "name": "xsv",
+  "homepage": "https://github.com/BurntSushi/xsv",
+  "shortdesc": {
+    "en": "A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files."
+  },
+  "repository": {
+    "browse": "https://github.com/BurntSushi/xsv",
+    "location": "https://github.com/BurntSushi/xsv.git"
+  },
+  "license": "https://github.com/BurntSushi/xsv/blob/master/UNLICENSE"
+}

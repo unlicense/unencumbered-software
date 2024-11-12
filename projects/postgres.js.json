@@ -1,0 +1,12 @@
+{
+  "name": "Postgres.js",
+  "homepage": "https://github.com/porsager/postgres",
+  "shortdesc": {
+    "en": "The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare."
+  },
+  "repository": {
+    "browse": "https://github.com/porsager/postgres",
+    "location": "https://github.com/porsager/postgres.git"
+  },
+  "license": "https://github.com/porsager/postgres/blob/master/UNLICENSE"
+}

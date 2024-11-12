@@ -24,6 +24,18 @@
     "license": "https://github.com/skaslev/gl3w/blob/master/UNLICENSE"
   },
   {
+    "name": "jslint",
+    "homepage": "https://jslint.com",
+    "shortdesc": {
+      "en": "The JavaScript code quality and coverage tool."
+    },
+    "repository": {
+      "browse": "https://github.com/jslint-org/jslint",
+      "location": "https://github.com/jslint-org/jslint.git"
+    },
+    "license": "https://github.com/jslint-org/jslint/blob/beta/LICENSE"
+  },
+  {
     "name": "Kakoune",
     "homepage": "https://kakoune.org",
     "shortdesc": {
@@ -46,6 +58,18 @@
       "location": "https://github.com/richgel999/miniz.git"
     },
     "license": "https://github.com/richgel999/miniz/blob/master/miniz.c#L621"
+  },
+  {
+    "name": "NearDrop",
+    "homepage": "https://github.com/grishka/NearDrop",
+    "shortdesc": {
+      "en": "A partial implementation of Google's Nearby Share/Quick Share for macOS."
+    },
+    "repository": {
+      "browse": "https://github.com/grishka/NearDrop",
+      "location": "https://github.com/grishka/NearDrop.git"
+    },
+    "license": "https://github.com/grishka/NearDrop/blob/master/UNLICENSE"
   },
   {
     "name": "node-rdf",
@@ -72,6 +96,18 @@
     "license": "https://github.com/devinus/poolboy/blob/master/UNLICENSE"
   },
   {
+    "name": "Postgres.js",
+    "homepage": "https://github.com/porsager/postgres",
+    "shortdesc": {
+      "en": "The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare."
+    },
+    "repository": {
+      "browse": "https://github.com/porsager/postgres",
+      "location": "https://github.com/porsager/postgres.git"
+    },
+    "license": "https://github.com/porsager/postgres/blob/master/UNLICENSE"
+  },
+  {
     "name": "Protoflow",
     "homepage": "https://protoflow.rs",
     "shortdesc": {
@@ -84,6 +120,18 @@
     "license": "https://github.com/AsimovPlatform/protoflow/blob/master/UNLICENSE"
   },
   {
+    "name": "pytube",
+    "homepage": "https://pytube.io",
+    "shortdesc": {
+      "en": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos."
+    },
+    "repository": {
+      "browse": "https://github.com/pytube/pytube",
+      "location": "https://github.com/pytube/pytube.git"
+    },
+    "license": "https://github.com/pytube/pytube/blob/master/LICENSE"
+  },
+  {
     "name": "RDF.rb",
     "homepage": "https://rubygems.org/gems/rdf",
     "shortdesc": {
@@ -94,6 +142,18 @@
       "location": "https://github.com/ruby-rdf/rdf.git"
     },
     "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
+  },
+  {
+    "name": "ripgrep",
+    "homepage": "https://github.com/BurntSushi/ripgrep",
+    "shortdesc": {
+      "en": "A line-oriented search tool that recursively searches the current directory for a regex pattern."
+    },
+    "repository": {
+      "browse": "https://github.com/BurntSushi/ripgrep",
+      "location": "https://github.com/BurntSushi/ripgrep.git"
+    },
+    "license": "https://github.com/BurntSushi/ripgrep/blob/master/UNLICENSE"
   },
   {
     "name": "RSS-Bridge",
@@ -132,6 +192,18 @@
     "license": "https://github.com/dryruby/tor.rb/blob/master/UNLICENSE"
   },
   {
+    "name": "Translate Shell",
+    "homepage": "https://www.soimort.org/translate-shell/",
+    "shortdesc": {
+      "en": "A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium."
+    },
+    "repository": {
+      "browse": "https://github.com/soimort/translate-shell",
+      "location": "https://github.com/soimort/translate-shell.git"
+    },
+    "license": "https://github.com/soimort/translate-shell/blob/develop/LICENSE"
+  },
+  {
     "name": "Tween-o-Matic",
     "homepage": "https://github.com/simonwhitaker/tween-o-matic",
     "shortdesc": {
@@ -168,6 +240,18 @@
     "license": "https://github.com/WaterJuice/WjCryptLib/blob/master/UNLICENSE"
   },
   {
+    "name": "xsv",
+    "homepage": "https://github.com/BurntSushi/xsv",
+    "shortdesc": {
+      "en": "A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files."
+    },
+    "repository": {
+      "browse": "https://github.com/BurntSushi/xsv",
+      "location": "https://github.com/BurntSushi/xsv.git"
+    },
+    "license": "https://github.com/BurntSushi/xsv/blob/master/UNLICENSE"
+  },
+  {
     "name": "youtube-dl",
     "homepage": "https://rg3.github.io/youtube-dl/",
     "shortdesc": {
@@ -178,5 +262,17 @@
       "location": "https://github.com/rg3/youtube-dl.git"
     },
     "license": "https://github.com/rg3/youtube-dl/blob/master/LICENSE"
+  },
+  {
+    "name": "yt-dlp",
+    "homepage": "https://github.com/yt-dlp/yt-dlp",
+    "shortdesc": {
+      "en": "A feature-rich command-line audio/video downloader."
+    },
+    "repository": {
+      "browse": "https://github.com/yt-dlp/yt-dlp",
+      "location": "https://github.com/yt-dlp/yt-dlp.git"
+    },
+    "license": "https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE"
   }
 ]
