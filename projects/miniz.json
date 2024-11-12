@@ -1,0 +1,12 @@
+{
+  "name": "Miniz",
+  "homepage": "https://github.com/richgel999/miniz",
+  "shortdesc": {
+    "en": "A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API."
+  },
+  "repository": {
+    "browse": "https://github.com/richgel999/miniz",
+    "location": "https://github.com/richgel999/miniz.git"
+  },
+  "license": "https://github.com/richgel999/miniz/blob/master/miniz.c#L621"
+}

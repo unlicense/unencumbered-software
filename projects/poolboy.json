@@ -1,0 +1,12 @@
+{
+  "name": "Poolboy",
+  "homepage": "https://github.com/devinus/poolboy",
+  "shortdesc": {
+    "en": "A hunky Erlang worker pool factory."
+  },
+  "repository": {
+    "browse": "https://github.com/devinus/poolboy",
+    "location": "https://github.com/devinus/poolboy.git"
+  },
+  "license": "https://github.com/devinus/poolboy/blob/master/UNLICENSE"
+}

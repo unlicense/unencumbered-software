@@ -1,0 +1,12 @@
+{
+  "name": "Tor.rb",
+  "homepage": "https://rubygems.org/gems/tor",
+  "shortdesc": {
+    "en": "A Ruby library for interacting with the Tor anonymity network."
+  },
+  "repository": {
+    "browse": "https://github.com/dryruby/tor.rb",
+    "location": "https://github.com/dryruby/tor.rb.git"
+  },
+  "license": "https://github.com/dryruby/tor.rb/blob/master/UNLICENSE"
+}

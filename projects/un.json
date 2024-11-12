@@ -1,0 +1,12 @@
+{
+  "name": "UN",
+  "homepage": "https://unlicense.developpez.com",
+  "shortdesc": {
+    "en": "Aiming to write a public domain all-purpose standard library for Java."
+  },
+  "repository": {
+    "browse": "https://bitbucket.org/Eclesia/un-lib",
+    "location": "https://bitbucket.org/Eclesia/un-lib.git"
+  },
+  "license": "https://bitbucket.org/Eclesia/un-lib/src/master/license/UNLICENSE.txt"
+}

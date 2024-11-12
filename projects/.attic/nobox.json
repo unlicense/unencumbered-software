@@ -1,0 +1,12 @@
+{
+  "name": "Nobox",
+  "homepage": "https://github.com/serprex/nobox",
+  "shortdesc": {
+    "en": "A minimalist stacking window manager written in C using XCB."
+  },
+  "repository": {
+    "browse": "https://github.com/serprex/nobox",
+    "location": "https://github.com/serprex/nobox.git"
+  },
+  "license": null
+}

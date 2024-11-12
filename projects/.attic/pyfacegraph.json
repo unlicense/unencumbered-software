@@ -1,0 +1,12 @@
+{
+  "name": "pyFaceGraph",
+  "homepage": "https://github.com/colinhowe/pyFaceGraph",
+  "shortdesc": {
+    "en": "A Python client library for Facebook's Graph API."
+  },
+  "repository": {
+    "browse": "https://github.com/colinhowe/pyFaceGraph",
+    "location": "https://github.com/colinhowe/pyFaceGraph.git"
+  },
+  "license": "https://github.com/colinhowe/pyFaceGraph/blob/master/UNLICENSE"
+}

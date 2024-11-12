@@ -1,0 +1,12 @@
+{
+  "name": "Tween-o-Matic",
+  "homepage": "https://github.com/simonwhitaker/tween-o-matic",
+  "shortdesc": {
+    "en": "A macOS application for designing CAMediaTimingFunction animation curves."
+  },
+  "repository": {
+    "browse": "https://github.com/simonwhitaker/tween-o-matic",
+    "location": "https://github.com/simonwhitaker/tween-o-matic.git"
+  },
+  "license": "https://github.com/simonwhitaker/tween-o-matic/blob/master/UNLICENSE"
+}

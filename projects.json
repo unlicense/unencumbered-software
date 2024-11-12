@@ -216,6 +216,18 @@
     "license": "https://github.com/WaterJuice/JsonLib/blob/master/UNLICENSE"
   },
   {
+    "name": "Kakoune",
+    "homepage": "https://kakoune.org",
+    "shortdesc": {
+      "en": "An experimental text editor heavily inspired by Vim."
+    },
+    "repository": {
+      "browse": "https://github.com/mawww/kakoune",
+      "location": "https://github.com/mawww/kakoune.git"
+    },
+    "license": "https://github.com/mawww/kakoune/blob/master/UNLICENSE"
+  },
+  {
     "name": "Lemon",
     "homepage": "http://www.hwaci.com/sw/lemon/",
     "shortdesc": {
@@ -297,6 +309,18 @@
     "license": "https://github.com/Hexstream/map-bind/blob/master/UNLICENSE"
   },
   {
+    "name": "Miniz",
+    "homepage": "https://github.com/richgel999/miniz",
+    "shortdesc": {
+      "en": "A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API."
+    },
+    "repository": {
+      "browse": "https://github.com/richgel999/miniz",
+      "location": "https://github.com/richgel999/miniz.git"
+    },
+    "license": "https://github.com/richgel999/miniz/blob/master/miniz.c#L621"
+  },
+  {
     "name": "multiple-value-variants",
     "homepage": "https://www.hexstreamsoft.com/libraries/multiple-value-variants/",
     "shortdesc": {
@@ -331,6 +355,18 @@
       "location": "https://github.com/oakes/Nightweb.git"
     },
     "license": "https://github.com/oakes/Nightweb/blob/master/UNLICENSE"
+  },
+  {
+    "name": "node-rdf",
+    "homepage": "https://npmjs.com/package/rdf",
+    "shortdesc": {
+      "en": "An ECMAScript/Node.js library for handling RDF data."
+    },
+    "repository": {
+      "browse": "https://github.com/awwright/node-rdf",
+      "location": "https://github.com/awwright/node-rdf.git"
+    },
+    "license": "https://github.com/awwright/node-rdf/blob/master/UNLICENSE"
   },
   {
     "name": "orderedmultidict",
@@ -381,6 +417,18 @@
     "license": "https://github.com/Hexstream/place-utils/blob/master/UNLICENSE"
   },
   {
+    "name": "Poolboy",
+    "homepage": "https://github.com/devinus/poolboy",
+    "shortdesc": {
+      "en": "A hunky Erlang worker pool factory."
+    },
+    "repository": {
+      "browse": "https://github.com/devinus/poolboy",
+      "location": "https://github.com/devinus/poolboy.git"
+    },
+    "license": "https://github.com/devinus/poolboy/blob/master/UNLICENSE"
+  },
+  {
     "name": "positional-lambda",
     "homepage": "https://www.hexstreamsoft.com/libraries/positional-lambda/",
     "shortdesc": {
@@ -403,6 +451,18 @@
       "location": "https://github.com/AsimovPlatform/protoflow.git"
     },
     "license": "https://github.com/AsimovPlatform/protoflow/blob/master/UNLICENSE"
+  },
+  {
+    "name": "RDF.rb",
+    "homepage": "https://rubygems.org/gems/rdf",
+    "shortdesc": {
+      "en": "A Ruby library for working with Resource Description Framework (RDF) data."
+    },
+    "repository": {
+      "browse": "https://github.com/ruby-rdf/rdf",
+      "location": "https://github.com/ruby-rdf/rdf.git"
+    },
+    "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
   },
   {
     "name": "re2c",
@@ -432,7 +492,7 @@
     "name": "RSS-Bridge",
     "homepage": "https://github.com/RSS-Bridge",
     "shortdesc": {
-      "en": "A PHP project capable of generating ATOM feeds for websites who don't have one."
+      "en": "A PHP web application that generates RSS feeds for websites that don't have one."
     },
     "repository": {
       "browse": "https://github.com/RSS-Bridge/rss-bridge",
@@ -468,7 +528,7 @@
     "name": "stb",
     "homepage": "https://github.com/nothings/stb",
     "shortdesc": {
-      "en": "Single-file public domain libraries for C/C++."
+      "en": "A set of single-file public domain libraries for C/C++."
     },
     "repository": {
       "browse": "https://github.com/nothings/stb",
@@ -513,6 +573,18 @@
     "license": "https://github.com/decentorganization/topaz-js-sdk/blob/master/UNLICENSE"
   },
   {
+    "name": "Tor.rb",
+    "homepage": "https://rubygems.org/gems/tor",
+    "shortdesc": {
+      "en": "A Ruby library for interacting with the Tor anonymity network."
+    },
+    "repository": {
+      "browse": "https://github.com/dryruby/tor.rb",
+      "location": "https://github.com/dryruby/tor.rb.git"
+    },
+    "license": "https://github.com/dryruby/tor.rb/blob/master/UNLICENSE"
+  },
+  {
     "name": "trivial-jumptables",
     "homepage": "https://www.hexstreamsoft.com/libraries/trivial-jumptables/",
     "shortdesc": {
@@ -525,6 +597,30 @@
     "license": "https://github.com/Hexstream/trivial-jumptables/blob/master/UNLICENSE"
   },
   {
+    "name": "Tween-o-Matic",
+    "homepage": "https://github.com/simonwhitaker/tween-o-matic",
+    "shortdesc": {
+      "en": "A macOS application for designing CAMediaTimingFunction animation curves."
+    },
+    "repository": {
+      "browse": "https://github.com/simonwhitaker/tween-o-matic",
+      "location": "https://github.com/simonwhitaker/tween-o-matic.git"
+    },
+    "license": "https://github.com/simonwhitaker/tween-o-matic/blob/master/UNLICENSE"
+  },
+  {
+    "name": "UN",
+    "homepage": "https://unlicense.developpez.com",
+    "shortdesc": {
+      "en": "Aiming to write a public domain all-purpose standard library for Java."
+    },
+    "repository": {
+      "browse": "https://bitbucket.org/Eclesia/un-lib",
+      "location": "https://bitbucket.org/Eclesia/un-lib.git"
+    },
+    "license": "https://bitbucket.org/Eclesia/un-lib/src/master/license/UNLICENSE.txt"
+  },
+  {
     "name": "with-shadowed-bindings",
     "homepage": "https://www.hexstreamsoft.com/libraries/with-shadowed-bindings/",
     "shortdesc": {
@@ -535,6 +631,18 @@
       "location": "https://github.com/Hexstream/with-shadowed-bindings.git"
     },
     "license": "https://github.com/Hexstream/with-shadowed-bindings/blob/master/UNLICENSE"
+  },
+  {
+    "name": "WjCryptLib",
+    "homepage": "https://github.com/WaterJuice/WjCryptLib",
+    "shortdesc": {
+      "en": "A collection of cryptographic functions written in C."
+    },
+    "repository": {
+      "browse": "https://github.com/WaterJuice/WjCryptLib",
+      "location": "https://github.com/WaterJuice/WjCryptLib.git"
+    },
+    "license": "https://github.com/WaterJuice/WjCryptLib/blob/master/UNLICENSE"
   },
   {
     "name": "youtube-dl",

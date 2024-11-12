@@ -1,0 +1,12 @@
+{
+  "name": "WjCryptLib",
+  "homepage": "https://github.com/WaterJuice/WjCryptLib",
+  "shortdesc": {
+    "en": "A collection of cryptographic functions written in C."
+  },
+  "repository": {
+    "browse": "https://github.com/WaterJuice/WjCryptLib",
+    "location": "https://github.com/WaterJuice/WjCryptLib.git"
+  },
+  "license": "https://github.com/WaterJuice/WjCryptLib/blob/master/UNLICENSE"
+}

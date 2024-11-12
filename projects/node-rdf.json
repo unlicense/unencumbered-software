@@ -1,0 +1,12 @@
+{
+  "name": "node-rdf",
+  "homepage": "https://npmjs.com/package/rdf",
+  "shortdesc": {
+    "en": "An ECMAScript/Node.js library for handling RDF data."
+  },
+  "repository": {
+    "browse": "https://github.com/awwright/node-rdf",
+    "location": "https://github.com/awwright/node-rdf.git"
+  },
+  "license": "https://github.com/awwright/node-rdf/blob/master/UNLICENSE"
+}

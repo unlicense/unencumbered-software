@@ -1,0 +1,12 @@
+{
+  "name": "Kakoune",
+  "homepage": "https://kakoune.org",
+  "shortdesc": {
+    "en": "An experimental text editor heavily inspired by Vim."
+  },
+  "repository": {
+    "browse": "https://github.com/mawww/kakoune",
+    "location": "https://github.com/mawww/kakoune.git"
+  },
+  "license": "https://github.com/mawww/kakoune/blob/master/UNLICENSE"
+}

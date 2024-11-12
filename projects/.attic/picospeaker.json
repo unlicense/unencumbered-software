@@ -1,0 +1,12 @@
+{
+  "name": "PicoSpeaker",
+  "homepage": "https://github.com/shilbert01/picospeaker",
+  "shortdesc": {
+    "en": "An interface to the SVox Pico text-to-speech system."
+  },
+  "repository": {
+    "browse": "https://github.com/shilbert01/picospeaker",
+    "location": "https://github.com/shilbert01/picospeaker.git"
+  },
+  "license": "https://github.com/shilbert01/picospeaker/blob/master/UNLICENSE"
+}

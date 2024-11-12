@@ -2,7 +2,7 @@
   "name": "stb",
   "homepage": "https://github.com/nothings/stb",
   "shortdesc": {
-    "en": "Single-file public domain libraries for C/C++."
+    "en": "A set of single-file public domain libraries for C/C++."
   },
   "repository": {
     "browse": "https://github.com/nothings/stb",

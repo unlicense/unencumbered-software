@@ -1,0 +1,12 @@
+{
+  "name": "RDFI.js",
+  "homepage": "https://github.com/webr3/rdf-interfaces",
+  "shortdesc": {
+    "en": "A JavaScript implementation of the core RDF Interfaces Specification."
+  },
+  "repository": {
+    "browse": "https://github.com/webr3/rdf-interfaces",
+    "location": "https://github.com/webr3/rdf-interfaces.git"
+  },
+  "license": "https://github.com/webr3/rdf-interfaces/blob/master/UNLICENSE"
+}

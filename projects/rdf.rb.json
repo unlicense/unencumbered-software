@@ -1,0 +1,12 @@
+{
+  "name": "RDF.rb",
+  "homepage": "https://rubygems.org/gems/rdf",
+  "shortdesc": {
+    "en": "A Ruby library for working with Resource Description Framework (RDF) data."
+  },
+  "repository": {
+    "browse": "https://github.com/ruby-rdf/rdf",
+    "location": "https://github.com/ruby-rdf/rdf.git"
+  },
+  "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
+}

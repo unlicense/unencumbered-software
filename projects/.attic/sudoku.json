@@ -1,0 +1,12 @@
+{
+  "name": "Sudoku",
+  "homepage": "https://github.com/wimleers/sudoku/wiki",
+  "shortdesc": {
+    "en": "A fancy, feature-complete, cross-platform Sudoku app written in C++/Qt."
+  },
+  "repository": {
+    "browse": "https://github.com/wimleers/sudoku",
+    "location": "https://github.com/wimleers/sudoku.git"
+  },
+  "license": "https://github.com/wimleers/sudoku/blob/master/UNLICENSE"
+}

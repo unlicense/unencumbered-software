@@ -1,0 +1,12 @@
+{
+  "name": "Epoch",
+  "homepage": "https://universe2.us/epoch.html",
+  "shortdesc": {
+    "en": "A lightweight init daemon for Linux systems."
+  },
+  "repository": {
+    "browse": "https://github.com/Subsentient/epoch",
+    "location": "https://github.com/Subsentient/epoch.git"
+  },
+  "license": "https://github.com/Subsentient/epoch/blob/master/UNLICENSE.TXT"
+}
