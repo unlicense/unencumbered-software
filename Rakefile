@@ -12,13 +12,23 @@ end
 
 file 'projects.md': PROJECTS do |t|
   File.open(t.name, 'w') do |out|
-    out.puts "| Name | Description |"
-    out.puts "| :--- | :---------- |"
+    out.puts "| Name | Summary | Repository |"
+    out.puts "| :--- | :------ | :--------- |"
     projects(t.prerequisites).each do |project|
       project_name = project['name']
       project_link = "[#{project_name}](#{project['homepage']})"
       project_desc = project['shortdesc']['en']
-      out.puts "| " + [project_link, project_desc].join(" | ") + " |"
+      project_repo = project['repository']
+      project_vcs = case
+        when project_repo.nil? then 'N/A'
+        when project_repo['browse'].start_with?('https://github.com')
+          "[GitHub](#{project_repo['browse']})"
+        when project_repo['browse'].start_with?('https://bitbucket.org')
+          "[Bitbucket](#{project_repo['browse']})"
+        else
+          "[Other](#{project_repo['browse']})"
+      end
+      out.puts "| " + [project_link, project_desc, project_vcs].join(" | ") + " |"
     end
   end
 end
