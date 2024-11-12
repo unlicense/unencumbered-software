@@ -1,20 +1,40 @@
 require 'json'
+require 'stringio'
 
 PROJECTS = Dir['projects/**/*.json'].sort.freeze
+SHOWCASE = Dir['showcase/**/*.json'].sort.freeze
 
-task default: %w(projects.json projects.md)
+task default: %w(projects.json projects.md showcase.json showcase.md)
 
 file 'projects.json': PROJECTS do |t|
   File.open(t.name, 'w') do |out|
-    out.puts JSON.pretty_unparse(projects(t.prerequisites))
+    out.puts generate_json(t.prerequisites)
   end
 end
 
 file 'projects.md': PROJECTS do |t|
   File.open(t.name, 'w') do |out|
-    out.puts "| Name | Summary | Repository |"
-    out.puts "| :--- | :------ | :--------- |"
-    projects(t.prerequisites).each do |project|
+    out.puts generate_markdown(t.prerequisites)
+  end
+end
+
+file 'showcase.json': SHOWCASE do |t|
+  File.open(t.name, 'w') do |out|
+    out.puts generate_json(t.prerequisites)
+  end
+end
+
+file 'showcase.md': SHOWCASE do |t|
+  File.open(t.name, 'w') do |out|
+    out.puts generate_markdown(t.prerequisites)
+  end
+end
+
+def generate_markdown(input_paths)
+  StringIO.open do |out|
+    out.puts "| Project | Summary | Repository |"
+    out.puts "| :------ | :------ | :--------- |"
+    load_projects(input_paths).each do |project|
       project_name = project['name']
       project_link = "[#{project_name}](#{project['homepage']})"
       project_desc = project['shortdesc']['en']
@@ -30,11 +50,16 @@ file 'projects.md': PROJECTS do |t|
       end
       out.puts "| " + [project_link, project_desc, project_vcs].join(" | ") + " |"
     end
+    out.string
   end
 end
 
-def projects(project_paths = PROJECTS)
-  project_paths.map do |project_path|
-    JSON.parse(File.read(project_path))
+def generate_json(input_paths)
+  JSON.pretty_unparse(load_projects(input_paths))
+end
+
+def load_projects(input_paths)
+  input_paths.map do |input_path|
+    JSON.parse(File.read(input_path))
   end
 end

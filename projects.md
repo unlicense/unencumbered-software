@@ -1,5 +1,5 @@
-| Name | Summary | Repository |
-| :--- | :------ | :--------- |
+| Project | Summary | Repository |
+| :------ | :------ | :--------- |
 | [anaphoric-variants](https://www.hexstreamsoft.com/libraries/anaphoric-variants/) | Gives access to anaphoric variants of operators through one macro: ANAPHORIC. The user explicitly provides a variable name, preserving sanity, in contrast to the traditional use of an evil implicit variable ("IT"). Some operators can bind additional handy variables when explicitly requested. | [GitHub](https://github.com/Hexstream/anaphoric-variants) |
 | [asciiart](https://github.com/frankbraun/asciiart) | Parser for hierarchical ASCII art. | [GitHub](https://github.com/frankbraun/asciiart) |
 | [bubble-operator-upwards](https://www.hexstreamsoft.com/libraries/bubble-operator-upwards/) | A function that "bubbles an operator upwards" in a form, demultiplexing all alternative branches by way of cartesian product. This operation is notably useful for easy implementation of certain kinds of shorthand notations in macros. A cartesian-product function is also exported, as it's needed to implement the main function. | [GitHub](https://github.com/Hexstream/bubble-operator-upwards) |
