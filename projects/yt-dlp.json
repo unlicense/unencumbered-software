@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A feature-rich command-line audio/video downloader."
   },
+  "download-page": "https://pypi.org/project/yt-dlp/",
   "repository": {
     "browse": "https://github.com/yt-dlp/yt-dlp",
     "location": "https://github.com/yt-dlp/yt-dlp.git"

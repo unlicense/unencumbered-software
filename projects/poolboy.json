@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A hunky Erlang worker pool factory."
   },
+  "download-page": "https://hex.pm/packages/poolboy",
   "repository": {
     "browse": "https://github.com/devinus/poolboy",
     "location": "https://github.com/devinus/poolboy.git"

@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A line-oriented search tool that recursively searches the current directory for a regex pattern."
   },
+  "download-page": "https://github.com/BurntSushi/ripgrep/releases",
   "repository": {
     "browse": "https://github.com/BurntSushi/ripgrep",
     "location": "https://github.com/BurntSushi/ripgrep.git"

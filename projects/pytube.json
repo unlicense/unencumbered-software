@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos."
   },
+  "download-page": "https://pypi.org/project/pytube/",
   "repository": {
     "browse": "https://github.com/pytube/pytube",
     "location": "https://github.com/pytube/pytube.git"

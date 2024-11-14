@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "The JavaScript code quality and coverage tool."
   },
+  "download-page": "https://npmjs.com/package/@jslint-org/jslint",
   "repository": {
     "browse": "https://github.com/jslint-org/jslint",
     "location": "https://github.com/jslint-org/jslint.git"

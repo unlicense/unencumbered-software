@@ -1,9 +1,10 @@
 {
   "name": "RSS-Bridge",
-  "homepage": "https://github.com/RSS-Bridge",
+  "homepage": "https://rss-bridge.org/bridge01/",
   "shortdesc": {
     "en": "A PHP web application that generates RSS feeds for websites that don't have one."
   },
+  "download-page": "https://github.com/RSS-Bridge/rss-bridge/releases",
   "repository": {
     "browse": "https://github.com/RSS-Bridge/rss-bridge",
     "location": "https://github.com/RSS-Bridge/rss-bridge.git"

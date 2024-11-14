@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files."
   },
+  "download-page": "https://github.com/BurntSushi/xsv/releases",
   "repository": {
     "browse": "https://github.com/BurntSushi/xsv",
     "location": "https://github.com/BurntSushi/xsv.git"

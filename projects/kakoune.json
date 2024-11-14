@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "An experimental text editor heavily inspired by Vim."
   },
+  "download-page": "https://github.com/mawww/kakoune/releases",
   "repository": {
     "browse": "https://github.com/mawww/kakoune",
     "location": "https://github.com/mawww/kakoune.git"

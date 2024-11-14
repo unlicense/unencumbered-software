@@ -32,12 +32,13 @@ end
 
 def generate_markdown(input_paths)
   StringIO.open do |out|
-    out.puts "| Project | Summary | Code |"
-    out.puts "| :------ | :------ | ---: |"
+    out.puts "| Project | Summary | Links |"
+    out.puts "| :------ | :------ | ----: |"
     load_projects(input_paths).each do |project|
       project_name = project['name']
-      project_link = "[#{project_name}](#{project['homepage']})"
       project_desc = project['shortdesc']['en']
+      project_link = "[#{project_name}](#{project['homepage']})"
+      project_download = "[:arrow_down:](#{project['download-page']})"
       project_repo = project['repository']
       project_vcs = case
         when project_repo.nil? then 'N/A'
@@ -49,7 +50,7 @@ def generate_markdown(input_paths)
         else
           "[:link:](#{project_repo['browse']})"
       end
-      out.puts "| " + [project_link, project_desc, project_vcs].join(" | ") + " |"
+      out.puts "| " + [project_link, project_desc, project_vcs + ' ' + project_download].join(" | ") + " |"
     end
     out.string
   end

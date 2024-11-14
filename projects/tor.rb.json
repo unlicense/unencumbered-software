@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A Ruby library for interacting with the Tor anonymity network."
   },
+  "download-page": "https://rubygems.org/gems/tor",
   "repository": {
     "browse": "https://github.com/dryruby/tor.rb",
     "location": "https://github.com/dryruby/tor.rb.git"

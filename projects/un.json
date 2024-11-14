@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "Aiming to write a public domain all-purpose standard library for Java."
   },
+  "download-page": "https://bitbucket.org/Eclesia/un-lib/downloads/",
   "repository": {
     "browse": "https://bitbucket.org/Eclesia/un-lib",
     "location": "https://bitbucket.org/Eclesia/un-lib.git"

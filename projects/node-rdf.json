@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "An ECMAScript/Node.js library for handling RDF data."
   },
+  "download-page": "https://npmjs.com/package/rdf",
   "repository": {
     "browse": "https://github.com/awwright/node-rdf",
     "location": "https://github.com/awwright/node-rdf.git"

@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare."
   },
+  "download-page": "https://npmjs.com/package/postgres",
   "repository": {
     "browse": "https://github.com/porsager/postgres",
     "location": "https://github.com/porsager/postgres.git"

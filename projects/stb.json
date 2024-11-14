@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A set of single-file public domain libraries for C/C++."
   },
+  "download-page": "https://github.com/nothings/stb",
   "repository": {
     "browse": "https://github.com/nothings/stb",
     "location": "https://github.com/nothings/stb.git"

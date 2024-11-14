@@ -149,6 +149,7 @@
     "shortdesc": {
       "en": "URL parsing and manipulation made easy."
     },
+    "download-page": "https://pypi.org/project/furl/",
     "repository": {
       "browse": "https://github.com/gruns/furl",
       "location": "https://github.com/gruns/furl.git"
@@ -161,6 +162,7 @@
     "shortdesc": {
       "en": "Simple OpenGL core profile loader."
     },
+    "download-page": "https://github.com/skaslev/gl3w",
     "repository": {
       "browse": "https://github.com/skaslev/gl3w",
       "location": "https://github.com/skaslev/gl3w.git"
@@ -209,6 +211,7 @@
     "shortdesc": {
       "en": "The JavaScript code quality and coverage tool."
     },
+    "download-page": "https://npmjs.com/package/@jslint-org/jslint",
     "repository": {
       "browse": "https://github.com/jslint-org/jslint",
       "location": "https://github.com/jslint-org/jslint.git"
@@ -233,6 +236,7 @@
     "shortdesc": {
       "en": "An experimental text editor heavily inspired by Vim."
     },
+    "download-page": "https://github.com/mawww/kakoune/releases",
     "repository": {
       "browse": "https://github.com/mawww/kakoune",
       "location": "https://github.com/mawww/kakoune.git"
@@ -326,6 +330,7 @@
     "shortdesc": {
       "en": "A single-source-file, high-performance deflate/inflate compression library with a zlib-compatible API."
     },
+    "download-page": "https://github.com/richgel999/miniz/releases",
     "repository": {
       "browse": "https://github.com/richgel999/miniz",
       "location": "https://github.com/richgel999/miniz.git"
@@ -350,6 +355,7 @@
     "shortdesc": {
       "en": "A partial implementation of Google's Nearby Share/Quick Share for macOS."
     },
+    "download-page": "https://github.com/grishka/NearDrop/releases",
     "repository": {
       "browse": "https://github.com/grishka/NearDrop",
       "location": "https://github.com/grishka/NearDrop.git"
@@ -386,6 +392,7 @@
     "shortdesc": {
       "en": "An ECMAScript/Node.js library for handling RDF data."
     },
+    "download-page": "https://npmjs.com/package/rdf",
     "repository": {
       "browse": "https://github.com/awwright/node-rdf",
       "location": "https://github.com/awwright/node-rdf.git"
@@ -446,6 +453,7 @@
     "shortdesc": {
       "en": "A hunky Erlang worker pool factory."
     },
+    "download-page": "https://hex.pm/packages/poolboy",
     "repository": {
       "browse": "https://github.com/devinus/poolboy",
       "location": "https://github.com/devinus/poolboy.git"
@@ -470,6 +478,7 @@
     "shortdesc": {
       "en": "The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare."
     },
+    "download-page": "https://npmjs.com/package/postgres",
     "repository": {
       "browse": "https://github.com/porsager/postgres",
       "location": "https://github.com/porsager/postgres.git"
@@ -482,6 +491,7 @@
     "shortdesc": {
       "en": "Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages."
     },
+    "download-page": "https://crates.io/crates/protoflow",
     "repository": {
       "browse": "https://github.com/AsimovPlatform/protoflow",
       "location": "https://github.com/AsimovPlatform/protoflow.git"
@@ -494,6 +504,7 @@
     "shortdesc": {
       "en": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos."
     },
+    "download-page": "https://pypi.org/project/pytube/",
     "repository": {
       "browse": "https://github.com/pytube/pytube",
       "location": "https://github.com/pytube/pytube.git"
@@ -506,6 +517,7 @@
     "shortdesc": {
       "en": "A Ruby library for working with Resource Description Framework (RDF) data."
     },
+    "download-page": "https://rubygems.org/gems/rdf",
     "repository": {
       "browse": "https://github.com/ruby-rdf/rdf",
       "location": "https://github.com/ruby-rdf/rdf.git"
@@ -542,6 +554,7 @@
     "shortdesc": {
       "en": "A line-oriented search tool that recursively searches the current directory for a regex pattern."
     },
+    "download-page": "https://github.com/BurntSushi/ripgrep/releases",
     "repository": {
       "browse": "https://github.com/BurntSushi/ripgrep",
       "location": "https://github.com/BurntSushi/ripgrep.git"
@@ -550,10 +563,11 @@
   },
   {
     "name": "RSS-Bridge",
-    "homepage": "https://github.com/RSS-Bridge",
+    "homepage": "https://rss-bridge.org/bridge01/",
     "shortdesc": {
       "en": "A PHP web application that generates RSS feeds for websites that don't have one."
     },
+    "download-page": "https://github.com/RSS-Bridge/rss-bridge/releases",
     "repository": {
       "browse": "https://github.com/RSS-Bridge/rss-bridge",
       "location": "https://github.com/RSS-Bridge/rss-bridge.git"
@@ -590,6 +604,7 @@
     "shortdesc": {
       "en": "A set of single-file public domain libraries for C/C++."
     },
+    "download-page": "https://github.com/nothings/stb",
     "repository": {
       "browse": "https://github.com/nothings/stb",
       "location": "https://github.com/nothings/stb.git"
@@ -638,6 +653,7 @@
     "shortdesc": {
       "en": "A Ruby library for interacting with the Tor anonymity network."
     },
+    "download-page": "https://rubygems.org/gems/tor",
     "repository": {
       "browse": "https://github.com/dryruby/tor.rb",
       "location": "https://github.com/dryruby/tor.rb.git"
@@ -650,6 +666,7 @@
     "shortdesc": {
       "en": "A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium."
     },
+    "download-page": "https://github.com/soimort/translate-shell/releases",
     "repository": {
       "browse": "https://github.com/soimort/translate-shell",
       "location": "https://github.com/soimort/translate-shell.git"
@@ -674,6 +691,7 @@
     "shortdesc": {
       "en": "A macOS application for designing CAMediaTimingFunction animation curves."
     },
+    "download-page": "https://github.com/simonwhitaker/tween-o-matic/releases",
     "repository": {
       "browse": "https://github.com/simonwhitaker/tween-o-matic",
       "location": "https://github.com/simonwhitaker/tween-o-matic.git"
@@ -686,6 +704,7 @@
     "shortdesc": {
       "en": "Aiming to write a public domain all-purpose standard library for Java."
     },
+    "download-page": "https://bitbucket.org/Eclesia/un-lib/downloads/",
     "repository": {
       "browse": "https://bitbucket.org/Eclesia/un-lib",
       "location": "https://bitbucket.org/Eclesia/un-lib.git"
@@ -710,6 +729,7 @@
     "shortdesc": {
       "en": "A collection of cryptographic functions written in C."
     },
+    "download-page": "https://github.com/WaterJuice/WjCryptLib/releases",
     "repository": {
       "browse": "https://github.com/WaterJuice/WjCryptLib",
       "location": "https://github.com/WaterJuice/WjCryptLib.git"
@@ -722,6 +742,7 @@
     "shortdesc": {
       "en": "A command-line program for indexing, slicing, analyzing, splitting, and joining CSV files."
     },
+    "download-page": "https://github.com/BurntSushi/xsv/releases",
     "repository": {
       "browse": "https://github.com/BurntSushi/xsv",
       "location": "https://github.com/BurntSushi/xsv.git"
@@ -734,6 +755,7 @@
     "shortdesc": {
       "en": "A command-line program to download videos from YouTube.com and a few more sites."
     },
+    "download-page": "https://github.com/ytdl-org/youtube-dl/releases",
     "repository": {
       "browse": "https://github.com/rg3/youtube-dl",
       "location": "https://github.com/rg3/youtube-dl.git"
@@ -746,6 +768,7 @@
     "shortdesc": {
       "en": "A feature-rich command-line audio/video downloader."
     },
+    "download-page": "https://pypi.org/project/yt-dlp/",
     "repository": {
       "browse": "https://github.com/yt-dlp/yt-dlp",
       "location": "https://github.com/yt-dlp/yt-dlp.git"

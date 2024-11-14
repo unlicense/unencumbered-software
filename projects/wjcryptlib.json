@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A collection of cryptographic functions written in C."
   },
+  "download-page": "https://github.com/WaterJuice/WjCryptLib/releases",
   "repository": {
     "browse": "https://github.com/WaterJuice/WjCryptLib",
     "location": "https://github.com/WaterJuice/WjCryptLib.git"

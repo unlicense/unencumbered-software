@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A macOS application for designing CAMediaTimingFunction animation curves."
   },
+  "download-page": "https://github.com/simonwhitaker/tween-o-matic/releases",
   "repository": {
     "browse": "https://github.com/simonwhitaker/tween-o-matic",
     "location": "https://github.com/simonwhitaker/tween-o-matic.git"

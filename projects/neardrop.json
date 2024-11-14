@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A partial implementation of Google's Nearby Share/Quick Share for macOS."
   },
+  "download-page": "https://github.com/grishka/NearDrop/releases",
   "repository": {
     "browse": "https://github.com/grishka/NearDrop",
     "location": "https://github.com/grishka/NearDrop.git"

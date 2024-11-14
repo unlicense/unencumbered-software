@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "Simple OpenGL core profile loader."
   },
+  "download-page": "https://github.com/skaslev/gl3w",
   "repository": {
     "browse": "https://github.com/skaslev/gl3w",
     "location": "https://github.com/skaslev/gl3w.git"

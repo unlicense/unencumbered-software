@@ -4,6 +4,7 @@
   "shortdesc": {
     "en": "A command-line translator powered by Google Translate, Bing Translator, Yandex.Translate, and Apertium."
   },
+  "download-page": "https://github.com/soimort/translate-shell/releases",
   "repository": {
     "browse": "https://github.com/soimort/translate-shell",
     "location": "https://github.com/soimort/translate-shell.git"
