@@ -124,10 +124,10 @@
     },
     "download-page": "https://crates.io/crates/protoflow",
     "repository": {
-      "browse": "https://github.com/AsimovPlatform/protoflow",
-      "location": "https://github.com/AsimovPlatform/protoflow.git"
+      "browse": "https://github.com/asimov-platform/protoflow",
+      "location": "https://github.com/asimov-platform/protoflow.git"
     },
-    "license": "https://github.com/AsimovPlatform/protoflow/blob/master/UNLICENSE"
+    "license": "https://github.com/asimov-platform/protoflow/blob/master/UNLICENSE"
   },
   {
     "name": "pytube",
