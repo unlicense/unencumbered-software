@@ -525,6 +525,19 @@
     "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
   },
   {
+    "name": "RDF.rs",
+    "homepage": "https://crates.io/crates/rdf-model",
+    "shortdesc": {
+      "en": "A Rust library for working with Resource Description Framework (RDF) data."
+    },
+    "download-page": "https://crates.io/crates/rdf-model",
+    "repository": {
+      "browse": "https://github.com/rust-rdf/rdf.rs",
+      "location": "https://github.com/rust-rdf/rdf.rs.git"
+    },
+    "license": "https://github.com/rust-rdf/rdf.rs/blob/master/UNLICENSE"
+  },
+  {
     "name": "re2c",
     "homepage": "http://re2c.org/",
     "shortdesc": {

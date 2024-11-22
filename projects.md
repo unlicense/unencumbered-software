@@ -43,6 +43,7 @@
 | [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. | [:link:](https://github.com/asimov-platform/protoflow) [:arrow_down:](https://crates.io/crates/protoflow) |
 | [pytube](https://pytube.io) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos. | [:link:](https://github.com/pytube/pytube) [:arrow_down:](https://pypi.org/project/pytube/) |
 | [RDF.rb](https://rubygems.org/gems/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/ruby-rdf/rdf) [:arrow_down:](https://rubygems.org/gems/rdf) |
+| [RDF.rs](https://crates.io/crates/rdf-model) | A Rust library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/rust-rdf/rdf.rs) [:arrow_down:](https://crates.io/crates/rdf-model) |
 | [re2c](http://re2c.org/) | A high-performance lexer generator for C and C++. | [:link:](https://github.com/skvadrik/re2c) [:arrow_down:]() |
 | [react-use](https://streamich.github.io/react-use/) | A collection of essential React Hooks. | [:link:](https://github.com/streamich/react-use) [:arrow_down:]() |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | A line-oriented search tool that recursively searches the current directory for a regex pattern. | [:link:](https://github.com/BurntSushi/ripgrep) [:arrow_down:](https://github.com/BurntSushi/ripgrep/releases) |
