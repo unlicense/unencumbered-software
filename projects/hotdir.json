@@ -1,0 +1,13 @@
+{
+  "name": "HotDIR",
+  "homepage": "https://veganaize.github.io/HotDIR/",
+  "shortdesc": {
+    "en": "Colorized file & folder listing for the Windows console."
+  },
+  "download-page": "https://github.com/veganaize/HotDIR/releases",
+  "repository": {
+    "browse": "https://github.com/veganaize/HotDIR",
+    "location": "https://github.com/veganaize/HotDIR.git"
+  },
+  "license": "https://github.com/veganaize/HotDIR/blob/master/LICENSE"
+}
