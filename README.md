@@ -33,6 +33,7 @@ for an example of how to describe a project:
   "shortdesc": {
     "en": "The most used database engine in the world."
   },
+  "download-page": "https://sqlite.org/download.html",
   "repository": {
     "browse": "https://sqlite.org/src",
     "location": "http://sqlite.org/cgi/src"
