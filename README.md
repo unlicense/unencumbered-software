@@ -20,7 +20,9 @@ at [Unlicense.org](https://unlicense.org) going forward.
 > collection of popular, high-quality software projects. The inclusion of a
 > project in this registry is no guarantee of getting listed as a showcase.
 
-## Example Project Description
+## Example Project Descriptions
+
+### SQLite
 
 See
 [projects/sqlite.json](https://github.com/unlicense/unencumbered-software/blob/master/projects/sqlite.json)
@@ -39,6 +41,28 @@ for an example of how to describe a project:
     "location": "http://sqlite.org/cgi/src"
   },
   "license": "https://sqlite.org/copyright.html"
+}
+```
+
+### RDF.rb
+
+See
+[projects/rdf.rb.json](https://github.com/unlicense/unencumbered-software/blob/master/projects/rdf.rb.json)
+for an example of how to describe a typical project hosted on GitHub:
+
+``` json
+{
+  "name": "RDF.rb",
+  "homepage": "https://rubygems.org/gems/rdf",
+  "shortdesc": {
+    "en": "A Ruby library for working with Resource Description Framework (RDF) data."
+  },
+  "download-page": "https://rubygems.org/gems/rdf",
+  "repository": {
+    "browse": "https://github.com/ruby-rdf/rdf",
+    "location": "https://github.com/ruby-rdf/rdf.git"
+  },
+  "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
 }
 ```
 
