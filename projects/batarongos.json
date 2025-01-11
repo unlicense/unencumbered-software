@@ -1,12 +1,12 @@
 {
   "name": "BatarongOS",
-  "homepage": "https://github.com/batarong/batarong-installer",
+  "homepage": "https://batarong.neocities.org/",
   "shortdesc": {
     "en": "A simple linux distro made for low power computers."
   },
   "repository": {
-    "browse": "https://github.com/batarong/batarong-installer",
-    "location": "https://github.com/batarong/batarong-installer.git"
+    "browse": "https://github.com/batarong/batarong.github.io",
+    "location": "https://github.com/batarong/batarong.github.io.git"
   },
   "license": "https://github.com/batarong/Batarong-Installer/blob/main/LICENSE"
 }
