@@ -1,0 +1,13 @@
+{
+  "name": "NEAR.rb",
+  "homepage": "https://rubygems.org/gems/near",
+  "shortdesc": {
+    "en": "A Ruby client library for the NEAR Protocol."
+  },
+  "download-page": "https://rubygems.org/gems/near",
+  "repository": {
+    "browse": "https://github.com/dryruby/near.rb",
+    "location": "https://github.com/dryruby/near.rb.git"
+  },
+  "license": "https://github.com/dryruby/near.rb/blob/master/UNLICENSE"
+}

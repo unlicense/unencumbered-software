@@ -1,0 +1,13 @@
+{
+  "name": "Borsh.rb",
+  "homepage": "https://rubygems.org/gems/borsh",
+  "shortdesc": {
+    "en": "A Ruby library for encoding and decoding data in the Borsh binary serialization format designed for security-critical projects where consistency, safety, and performance matter."
+  },
+  "download-page": "https://rubygems.org/gems/borsh",
+  "repository": {
+    "browse": "https://github.com/dryruby/borsh.rb",
+    "location": "https://github.com/dryruby/borsh.rb.git"
+  },
+  "license": "https://github.com/dryruby/borsh.rb/blob/master/UNLICENSE"
+}
