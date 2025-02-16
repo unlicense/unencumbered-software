@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Environment variables
+.env
+
 # Editor backup files
 *~
 
