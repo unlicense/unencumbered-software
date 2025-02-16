@@ -1,5 +1,18 @@
 [
   {
+    "name": "ASIMOV Platform",
+    "homepage": "https://asimov.so",
+    "shortdesc": {
+      "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    },
+    "download-page": "https://github.com/asimov-platform",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov-universe",
+      "location": "https://github.com/asimov-platform/asimov-universe.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
+  },
+  {
     "name": "furl",
     "homepage": "https://github.com/gruns/furl",
     "shortdesc": {
@@ -157,11 +170,11 @@
   },
   {
     "name": "RDF.rs",
-    "homepage": "https://crates.io/crates/rdf-model",
+    "homepage": "https://crates.io/crates/rdf_rs",
     "shortdesc": {
       "en": "A Rust library for working with Resource Description Framework (RDF) data."
     },
-    "download-page": "https://crates.io/crates/rdf-model",
+    "download-page": "https://crates.io/crates/rdf_rs",
     "repository": {
       "browse": "https://github.com/rust-rdf/rdf.rs",
       "location": "https://github.com/rust-rdf/rdf.rs.git"

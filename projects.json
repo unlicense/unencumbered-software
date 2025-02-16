@@ -24,6 +24,84 @@
     "license": "https://github.com/frankbraun/asciiart/blob/master/UNLICENSE"
   },
   {
+    "name": "ASIMOV Command-Line Interface (CLI)",
+    "homepage": "https://cli.asimov.so",
+    "shortdesc": {
+      "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    },
+    "download-page": "https://github.com/asimov-platform",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov-cli",
+      "location": "https://github.com/asimov-platform/asimov-cli.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
+  },
+  {
+    "name": "ASIMOV Software Development Kit (SDK)",
+    "homepage": "https://sdk.asimov.so",
+    "shortdesc": {
+      "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    },
+    "download-page": "https://github.com/asimov-platform",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov.rs",
+      "location": "https://github.com/asimov-platform/asimov.rs.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
+  },
+  {
+    "name": "ASIMOV Platform",
+    "homepage": "https://asimov.so",
+    "shortdesc": {
+      "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    },
+    "download-page": "https://github.com/asimov-platform",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov-universe",
+      "location": "https://github.com/asimov-platform/asimov-universe.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
+  },
+  {
+    "name": "ASIMOV.rb",
+    "homepage": "https://rubygems.org/gems/asimov.rb",
+    "shortdesc": {
+      "en": "ASIMOV Software Development Kit (SDK) for Ruby"
+    },
+    "download-page": "https://rubygems.org/gems/asimov.rb",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov.rb",
+      "location": "https://github.com/asimov-platform/asimov.rb.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov.rb/blob/master/UNLICENSE"
+  },
+  {
+    "name": "ASIMOV.rs",
+    "homepage": "https://crates.io/crates/asimov-sdk",
+    "shortdesc": {
+      "en": "ASIMOV Software Development Kit (SDK) for Rust"
+    },
+    "download-page": "https://crates.io/crates/asimov-sdk",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov.rs",
+      "location": "https://github.com/asimov-platform/asimov.rs.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
+  },
+  {
+    "name": "Borsh.rb",
+    "homepage": "https://rubygems.org/gems/borsh",
+    "shortdesc": {
+      "en": "A Ruby library for encoding and decoding data in the Borsh binary serialization format designed for security-critical projects where consistency, safety, and performance matter."
+    },
+    "download-page": "https://rubygems.org/gems/borsh",
+    "repository": {
+      "browse": "https://github.com/dryruby/borsh.rb",
+      "location": "https://github.com/dryruby/borsh.rb.git"
+    },
+    "license": "https://github.com/dryruby/borsh.rb/blob/master/UNLICENSE"
+  },
+  {
     "name": "bubble-operator-upwards",
     "homepage": "https://www.hexstreamsoft.com/libraries/bubble-operator-upwards/",
     "shortdesc": {
@@ -180,6 +258,19 @@
       "location": "https://github.com/frankbraun/gosignify.git"
     },
     "license": "https://github.com/frankbraun/gosignify/blob/master/UNLICENSE"
+  },
+  {
+    "name": "HotDIR",
+    "homepage": "https://veganaize.github.io/HotDIR/",
+    "shortdesc": {
+      "en": "Colorized file & folder listing for the Windows console."
+    },
+    "download-page": "https://github.com/veganaize/HotDIR/releases",
+    "repository": {
+      "browse": "https://github.com/veganaize/HotDIR",
+      "location": "https://github.com/veganaize/HotDIR.git"
+    },
+    "license": "https://github.com/veganaize/HotDIR/blob/master/LICENSE"
   },
   {
     "name": "incognito-keywords",
@@ -348,6 +439,19 @@
       "location": "https://github.com/Hexstream/multiple-value-variants.git"
     },
     "license": "https://github.com/Hexstream/multiple-value-variants/blob/master/UNLICENSE"
+  },
+  {
+    "name": "NEAR.rb",
+    "homepage": "https://rubygems.org/gems/near",
+    "shortdesc": {
+      "en": "A Ruby client library for the NEAR Protocol."
+    },
+    "download-page": "https://rubygems.org/gems/near",
+    "repository": {
+      "browse": "https://github.com/dryruby/near.rb",
+      "location": "https://github.com/dryruby/near.rb.git"
+    },
+    "license": "https://github.com/dryruby/near.rb/blob/master/UNLICENSE"
   },
   {
     "name": "NearDrop",
@@ -526,11 +630,11 @@
   },
   {
     "name": "RDF.rs",
-    "homepage": "https://crates.io/crates/rdf-model",
+    "homepage": "https://crates.io/crates/rdf_rs",
     "shortdesc": {
       "en": "A Rust library for working with Resource Description Framework (RDF) data."
     },
-    "download-page": "https://crates.io/crates/rdf-model",
+    "download-page": "https://crates.io/crates/rdf_rs",
     "repository": {
       "browse": "https://github.com/rust-rdf/rdf.rs",
       "location": "https://github.com/rust-rdf/rdf.rs.git"
@@ -605,6 +709,7 @@
     "shortdesc": {
       "en": "The most used database engine in the world."
     },
+    "download-page": "https://sqlite.org/download.html",
     "repository": {
       "browse": "https://sqlite.org/src",
       "location": "http://sqlite.org/cgi/src"
