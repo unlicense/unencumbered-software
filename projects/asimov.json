@@ -1,0 +1,13 @@
+{
+  "name": "ASIMOV Platform",
+  "homepage": "https://asimov.so",
+  "shortdesc": {
+    "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+  },
+  "download-page": "https://github.com/asimov-platform",
+  "repository": {
+    "browse": "https://github.com/asimov-platform/asimov-universe",
+    "location": "https://github.com/asimov-platform/asimov-universe.git"
+  },
+  "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
+}

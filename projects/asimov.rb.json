@@ -1,0 +1,13 @@
+{
+  "name": "ASIMOV.rb",
+  "homepage": "https://rubygems.org/gems/asimov.rb",
+  "shortdesc": {
+    "en": "ASIMOV Software Development Kit (SDK) for Ruby"
+  },
+  "download-page": "https://rubygems.org/gems/asimov.rb",
+  "repository": {
+    "browse": "https://github.com/asimov-platform/asimov.rb",
+    "location": "https://github.com/asimov-platform/asimov.rb.git"
+  },
+  "license": "https://github.com/asimov-platform/asimov.rb/blob/master/UNLICENSE"
+}

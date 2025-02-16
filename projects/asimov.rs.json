@@ -1,0 +1,13 @@
+{
+  "name": "ASIMOV.rs",
+  "homepage": "https://crates.io/crates/asimov-sdk",
+  "shortdesc": {
+    "en": "ASIMOV Software Development Kit (SDK) for Rust"
+  },
+  "download-page": "https://crates.io/crates/asimov-sdk",
+  "repository": {
+    "browse": "https://github.com/asimov-platform/asimov.rs",
+    "location": "https://github.com/asimov-platform/asimov.rs.git"
+  },
+  "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
+}
