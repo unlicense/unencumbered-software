@@ -1,0 +1,13 @@
+{
+  "name": "MistServer",
+  "homepage": "https://mistserver.org",
+  "shortdesc": {
+    "en": "Low-latency streaming media toolkit built for flexibility and reliability."
+  },
+  "download-page": "https://mistserver.org/download",
+  "repository": {
+    "browse": "https://github.com/DDVTECH/mistserver",
+    "location": "https://github.com/DDVTECH/mistserver.git"
+  },
+  "license": "https://github.com/DDVTECH/mistserver/blob/master/UNLICENSE"
+}
