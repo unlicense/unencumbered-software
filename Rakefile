@@ -1,8 +1,13 @@
 require 'json'
 require 'stringio'
 
-PROJECTS = Dir['projects/**/*.json'].sort.freeze
-SHOWCASE = Dir['showcase/**/*.json'].sort.freeze
+PROJECTS = Dir['projects/**/*.json'].sort_by do |path|
+  path.delete_prefix('projects/').delete_suffix('.json')
+end.freeze
+
+SHOWCASE = Dir['showcase/**/*.json'].sort_by do |path|
+  path.delete_prefix('showcase/').delete_suffix('.json')
+end.freeze
 
 task default: %w(projects.json projects.md showcase.json showcase.md)
 
