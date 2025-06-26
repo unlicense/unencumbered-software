@@ -1,8 +1,8 @@
 {
-  "name": "ASIMOV Command-Line Interface (CLI)",
-  "homepage": "https://cli.asimov.so",
+  "name": "ASIMOV CLI",
+  "homepage": "https://cli.asimov.sh",
   "shortdesc": {
-    "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    "en": "ASIMOV Command-Line Interface (CLI)"
   },
   "download-page": "https://github.com/asimov-platform",
   "repository": {

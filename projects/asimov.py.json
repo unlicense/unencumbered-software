@@ -1,0 +1,13 @@
+{
+  "name": "ASIMOV.py",
+  "homepage": "https://pypi.org/project/asimov.py/",
+  "shortdesc": {
+    "en": "ASIMOV Software Development Kit (SDK) for Python"
+  },
+  "download-page": "https://pypi.org/project/asimov.py/",
+  "repository": {
+    "browse": "https://github.com/asimov-platform/asimov.py",
+    "location": "https://github.com/asimov-platform/asimov.py.git"
+  },
+  "license": "https://github.com/asimov-platform/asimov.py/blob/master/UNLICENSE"
+}

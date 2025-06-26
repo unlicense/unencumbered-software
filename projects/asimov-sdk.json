@@ -1,13 +1,13 @@
 {
-  "name": "ASIMOV Software Development Kit (SDK)",
-  "homepage": "https://sdk.asimov.so",
+  "name": "ASIMOV SDK",
+  "homepage": "https://sdk.asimov.sh",
   "shortdesc": {
-    "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
+    "en": "ASIMOV Software Development Kit (SDK)"
   },
   "download-page": "https://github.com/asimov-platform",
   "repository": {
-    "browse": "https://github.com/asimov-platform/asimov.rs",
-    "location": "https://github.com/asimov-platform/asimov.rs.git"
+    "browse": "https://github.com/asimov-platform/asimov-sdk",
+    "location": "https://github.com/asimov-platform/asimov-sdk.git"
   },
-  "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
+  "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
 }

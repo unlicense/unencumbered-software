@@ -1,0 +1,13 @@
+{
+  "name": "ASIMOV.js",
+  "homepage": "https://www.npmjs.com/package/asimov.js",
+  "shortdesc": {
+    "en": "ASIMOV Software Development Kit (SDK) for JavaScript"
+  },
+  "download-page": "https://www.npmjs.com/package/asimov.js",
+  "repository": {
+    "browse": "https://github.com/asimov-platform/asimov.js",
+    "location": "https://github.com/asimov-platform/asimov.js.git"
+  },
+  "license": "https://github.com/asimov-platform/asimov.js/blob/master/UNLICENSE"
+}
