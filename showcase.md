@@ -1,6 +1,7 @@
 | Project | Summary | Links |
 | :------ | :------ | ----: |
 | [ASIMOV](https://asimov.sh) | A polyglot development platform for trustworthy, neurosymbolic AI. | [:link:](https://github.com/asimov-platform/asimov-cli) [:arrow_down:](https://github.com/asimov-platform) |
+| [Flows.rs](https://flows.rs) | Building blocks for flow-based programming (FBP) in Rust. | [:link:](https://github.com/artob/flows.rs) [:arrow_down:](https://crates.io/crates/flows) |
 | [furl](https://github.com/gruns/furl) | URL parsing and manipulation made easy. | [:link:](https://github.com/gruns/furl) [:arrow_down:](https://pypi.org/project/furl/) |
 | [gl3w](https://github.com/skaslev/gl3w) | Simple OpenGL core profile loader. | [:link:](https://github.com/skaslev/gl3w) [:arrow_down:](https://github.com/skaslev/gl3w) |
 | [jslint](https://jslint.com) | The JavaScript code quality and coverage tool. | [:link:](https://github.com/jslint-org/jslint) [:arrow_down:](https://npmjs.com/package/@jslint-org/jslint) |
@@ -11,7 +12,6 @@
 | [node-rdf](https://npmjs.com/package/rdf) | An ECMAScript/Node.js library for handling RDF data. | [:link:](https://github.com/awwright/node-rdf) [:arrow_down:](https://npmjs.com/package/rdf) |
 | [Poolboy](https://github.com/devinus/poolboy) | A hunky Erlang worker pool factory. | [:link:](https://github.com/devinus/poolboy) [:arrow_down:](https://hex.pm/packages/poolboy) |
 | [Postgres.js](https://github.com/porsager/postgres) | The fastest full-featured PostgreSQL client for Node.js, Deno, Bun, and Cloudflare. | [:link:](https://github.com/porsager/postgres) [:arrow_down:](https://npmjs.com/package/postgres) |
-| [Protoflow](https://protoflow.rs) | Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages. | [:link:](https://github.com/asimov-platform/protoflow) [:arrow_down:](https://crates.io/crates/protoflow) |
 | [pytube](https://pytube.io) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos. | [:link:](https://github.com/pytube/pytube) [:arrow_down:](https://pypi.org/project/pytube/) |
 | [RDF.rb](https://rubygems.org/gems/rdf) | A Ruby library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/ruby-rdf/rdf) [:arrow_down:](https://rubygems.org/gems/rdf) |
 | [RDF.rs](https://crates.io/crates/rdf_rs) | A Rust library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/rust-rdf/rdf.rs) [:arrow_down:](https://crates.io/crates/rdf_rs) |

@@ -13,6 +13,19 @@
     "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
   },
   {
+    "name": "Flows.rs",
+    "homepage": "https://flows.rs",
+    "shortdesc": {
+      "en": "Building blocks for flow-based programming (FBP) in Rust."
+    },
+    "download-page": "https://crates.io/crates/flows",
+    "repository": {
+      "browse": "https://github.com/artob/flows.rs",
+      "location": "https://github.com/artob/flows.rs.git"
+    },
+    "license": "https://github.com/artob/flows.rs/blob/master/UNLICENSE"
+  },
+  {
     "name": "furl",
     "homepage": "https://github.com/gruns/furl",
     "shortdesc": {
@@ -141,19 +154,6 @@
       "location": "https://github.com/porsager/postgres.git"
     },
     "license": "https://github.com/porsager/postgres/blob/master/UNLICENSE"
-  },
-  {
-    "name": "Protoflow",
-    "homepage": "https://protoflow.rs",
-    "shortdesc": {
-      "en": "Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages."
-    },
-    "download-page": "https://crates.io/crates/protoflow",
-    "repository": {
-      "browse": "https://github.com/asimov-platform/protoflow",
-      "location": "https://github.com/asimov-platform/protoflow.git"
-    },
-    "license": "https://github.com/asimov-platform/protoflow/blob/master/UNLICENSE"
   },
   {
     "name": "pytube",

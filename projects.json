@@ -115,6 +115,19 @@
     "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
   },
   {
+    "name": "Async-Flow",
+    "homepage": "https://async-flow.rs",
+    "shortdesc": {
+      "en": "Async abstractions for flow-based programming (FBP) in Rust."
+    },
+    "download-page": "https://crates.io/crates/async-flow",
+    "repository": {
+      "browse": "https://github.com/artob/async-flow",
+      "location": "https://github.com/artob/async-flow.git"
+    },
+    "license": "https://github.com/artob/async-flow/blob/master/UNLICENSE"
+  },
+  {
     "name": "Borsh.rb",
     "homepage": "https://rubygems.org/gems/borsh",
     "shortdesc": {
@@ -246,6 +259,19 @@
       "location": "https://github.com/Hexstream/first-time-value.git"
     },
     "license": "https://github.com/Hexstream/first-time-value/blob/master/UNLICENSE"
+  },
+  {
+    "name": "Flows.rs",
+    "homepage": "https://flows.rs",
+    "shortdesc": {
+      "en": "Building blocks for flow-based programming (FBP) in Rust."
+    },
+    "download-page": "https://crates.io/crates/flows",
+    "repository": {
+      "browse": "https://github.com/artob/flows.rs",
+      "location": "https://github.com/artob/flows.rs.git"
+    },
+    "license": "https://github.com/artob/flows.rs/blob/master/UNLICENSE"
   },
   {
     "name": "furl",
