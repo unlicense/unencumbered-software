@@ -13,6 +13,19 @@
     "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
   },
   {
+    "name": "Edky",
+    "homepage": "https://edky.dev",
+    "shortdesc": {
+      "en": "A command-line tool that converts Ed25519 public keys between various encoding formats."
+    },
+    "download-page": "https://crates.io/crates/edky",
+    "repository": {
+      "browse": "https://github.com/artob/edky",
+      "location": "https://github.com/artob/edky.git"
+    },
+    "license": "https://github.com/artob/edky/blob/master/UNLICENSE"
+  },
+  {
     "name": "Flows.rs",
     "homepage": "https://flows.rs",
     "shortdesc": {
