@@ -67,6 +67,7 @@
 | [SQLite](https://sqlite.org) | The most used database engine in the world. | [:link:](https://sqlite.org/src) [:arrow_down:](https://sqlite.org/download.html) |
 | [stb](https://github.com/nothings/stb) | A set of single-file public domain libraries for C/C++. | [:link:](https://github.com/nothings/stb) [:arrow_down:](https://github.com/nothings/stb) |
 | [symbol-namespaces](https://www.hexstreamsoft.com/libraries/symbol-namespaces/) | Defines a new kind of package that's named by a symbol rather than a string and that maps from existing symbols to their respective "implicitly managed" counterparts. The motivating use-case is to conceptually allow multiple definitions of the same kind on a single symbol, without conflicts. | [:link:](https://github.com/Hexstream/symbol-namespaces) [:arrow_down:]() |
+| [tiny-graphics](https://github.com/Rowobin/tiny_graphics) | A 2D graphics library for 1-bit OLED screens. | [:link:](https://github.com/Rowobin/tiny_graphics) [:arrow_down:]() |
 | [TomsFastMath](https://www.libtom.net/TomsFastMath/) | A fast large integer arithmetic library written in portable ISO C. | [:link:](https://github.com/libtom/tomsfastmath) [:arrow_down:]() |
 | [topaz-js-sdk](https://topaz.io) | Javascript SDK for the Topaz API | [:link:](https://github.com/decentorganization/topaz-js-sdk) [:arrow_down:]() |
 | [Tor.rb](https://rubygems.org/gems/tor) | A Ruby library for interacting with the Tor anonymity network. | [:link:](https://github.com/dryruby/tor.rb) [:arrow_down:](https://rubygems.org/gems/tor) |

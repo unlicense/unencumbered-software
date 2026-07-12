@@ -833,6 +833,18 @@
     "license": "https://github.com/Hexstream/symbol-namespaces/blob/master/UNLICENSE"
   },
   {
+    "name": "tiny-graphics",
+    "homepage": "https://github.com/Rowobin/tiny_graphics",
+    "shortdesc": {
+      "en": "A 2D graphics library for 1-bit OLED screens."
+    },
+    "repository": {
+      "browse": "https://github.com/Rowobin/tiny_graphics",
+      "location": "https://github.com/Rowobin/tiny_graphics.git"
+    },
+    "license": "https://github.com/Rowobin/tiny_graphics/blob/main/LICENSE"
+  },
+  {
     "name": "TomsFastMath",
     "homepage": "https://www.libtom.net/TomsFastMath/",
     "shortdesc": {
