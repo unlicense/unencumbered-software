@@ -221,6 +221,19 @@
     "license": "https://github.com/rust-rdf/rdf.rs/blob/master/UNLICENSE"
   },
   {
+    "name": "Readmer",
+    "homepage": "https://readmer.dev",
+    "shortdesc": {
+      "en": "A command-line tool that composes project README.md files from templates."
+    },
+    "download-page": "https://crates.io/crates/readmer",
+    "repository": {
+      "browse": "https://github.com/artob/readmer",
+      "location": "https://github.com/artob/readmer.git"
+    },
+    "license": "https://github.com/artob/readmer/blob/master/UNLICENSE"
+  },
+  {
     "name": "ripgrep",
     "homepage": "https://github.com/BurntSushi/ripgrep",
     "shortdesc": {

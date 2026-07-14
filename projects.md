@@ -61,6 +61,7 @@
 | [RDF.rs](https://crates.io/crates/rdf_rs) | A Rust library for working with Resource Description Framework (RDF) data. | [:link:](https://github.com/rust-rdf/rdf.rs) [:arrow_down:](https://crates.io/crates/rdf_rs) |
 | [re2c](http://re2c.org/) | A high-performance lexer generator for C and C++. | [:link:](https://github.com/skvadrik/re2c) [:arrow_down:]() |
 | [react-use](https://streamich.github.io/react-use/) | A collection of essential React Hooks. | [:link:](https://github.com/streamich/react-use) [:arrow_down:]() |
+| [Readmer](https://readmer.dev) | A command-line tool that composes project README.md files from templates. | [:link:](https://github.com/artob/readmer) [:arrow_down:](https://crates.io/crates/readmer) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | A line-oriented search tool that recursively searches the current directory for a regex pattern. | [:link:](https://github.com/BurntSushi/ripgrep) [:arrow_down:](https://github.com/BurntSushi/ripgrep/releases) |
 | [RSS-Bridge](https://rss-bridge.org/bridge01/) | A PHP web application that generates RSS feeds for websites that don't have one. | [:link:](https://github.com/RSS-Bridge/rss-bridge) [:arrow_down:](https://github.com/RSS-Bridge/rss-bridge/releases) |
 | [Samourai Wallet](https://github.com/Samourai-Wallet) | Samourai Bitcoin wallet for Android. | [:link:](https://github.com/Samourai-Wallet/samourai-wallet-android) [:arrow_down:]() |
