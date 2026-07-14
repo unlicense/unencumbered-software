@@ -1,0 +1,10 @@
+---
+name: youtube-dl
+homepage: https://rg3.github.io/youtube-dl/
+shortdesc:
+  en: A command-line program to download videos from YouTube.com and a few more sites.
+download-page: https://github.com/ytdl-org/youtube-dl/releases
+repository:
+  browse: https://github.com/rg3/youtube-dl
+  location: https://github.com/rg3/youtube-dl.git
+license: https://github.com/rg3/youtube-dl/blob/master/LICENSE

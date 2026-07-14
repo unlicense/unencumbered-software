@@ -1,15 +1,28 @@
 require 'json'
 require 'stringio'
+require 'yaml'
 
-PROJECTS = Dir['projects/**/*.json'].sort_by do |path|
-  path.delete_prefix('projects/').delete_suffix('.json')
+PROJECTS = Dir['projects/**/*.yaml'].sort_by do |path|
+  path.delete_prefix('projects/').delete_suffix('.yaml')
 end.freeze
 
-SHOWCASE = Dir['showcase/**/*.json'].sort_by do |path|
-  path.delete_prefix('showcase/').delete_suffix('.json')
+SHOWCASE = Dir['showcase/**/*.yaml'].sort_by do |path|
+  path.delete_prefix('showcase/').delete_suffix('.yaml')
 end.freeze
 
 task default: %w(projects.json projects.md showcase.json showcase.md)
+
+task convert: PROJECTS do |t|
+  t.prerequisites.each do |input_path|
+    next unless File.exist?(input_path)
+    output_path = input_path.gsub('.json', '.yaml')
+    project = JSON.parse(File.read(input_path))
+    File.open(output_path, 'w') do |out|
+      out.puts project.to_yaml
+    end
+    FileUtils.rm(input_path)
+  end
+end
 
 file 'projects.json': PROJECTS do |t|
   File.open(t.name, 'w') do |out|
@@ -67,6 +80,6 @@ end
 
 def load_projects(input_paths)
   input_paths.map do |input_path|
-    JSON.parse(File.read(input_path))
+    YAML.safe_load(File.read(input_path))
   end
 end

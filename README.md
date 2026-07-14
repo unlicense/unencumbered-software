@@ -7,7 +7,7 @@ public-domain software projects. That encompasses all projects using the
 (CC0)](https://creativecommons.org/publicdomain/zero/1.0/), or a plain
 old public-domain dedication.
 
-Project metadata are described in JSON format, one file per project,
+Project metadata are described in YAML format, one file per project,
 utilizing the terms from the [DOAP (Description of a
 Project)](https://github.com/ewilderj/doap) schema.
 
@@ -25,45 +25,39 @@ at [Unlicense.org](https://unlicense.org) going forward.
 ### SQLite
 
 See
-[projects/sqlite.json](https://github.com/unlicense/unencumbered-software/blob/master/projects/sqlite.json)
+[projects/s/sqlite.yaml](https://github.com/unlicense/unencumbered-software/blob/master/projects/s/sqlite.yaml)
 for an example of how to describe a project:
 
-``` json
-{
-  "name": "SQLite",
-  "homepage": "https://sqlite.org",
-  "shortdesc": {
-    "en": "The most used database engine in the world."
-  },
-  "download-page": "https://sqlite.org/download.html",
-  "repository": {
-    "browse": "https://sqlite.org/src",
-    "location": "http://sqlite.org/cgi/src"
-  },
-  "license": "https://sqlite.org/copyright.html"
-}
+```yaml
+---
+name: SQLite
+homepage: https://sqlite.org
+shortdesc:
+  en: The most used database engine in the world.
+download-page: https://sqlite.org/download.html
+repository:
+  browse: https://sqlite.org/src
+  location: http://sqlite.org/cgi/src
+license: https://sqlite.org/copyright.html
 ```
 
 ### RDF.rb
 
 See
-[projects/rdf.rb.json](https://github.com/unlicense/unencumbered-software/blob/master/projects/rdf.rb.json)
+[projects/r/rdf.rb.yaml](https://github.com/unlicense/unencumbered-software/blob/master/projects/r/rdf.rb.yaml)
 for an example of how to describe a typical project hosted on GitHub:
 
-``` json
-{
-  "name": "RDF.rb",
-  "homepage": "https://rubygems.org/gems/rdf",
-  "shortdesc": {
-    "en": "A Ruby library for working with Resource Description Framework (RDF) data."
-  },
-  "download-page": "https://rubygems.org/gems/rdf",
-  "repository": {
-    "browse": "https://github.com/ruby-rdf/rdf",
-    "location": "https://github.com/ruby-rdf/rdf.git"
-  },
-  "license": "https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE"
-}
+```yaml
+---
+name: RDF.rb
+homepage: https://rubygems.org/gems/rdf
+shortdesc:
+  en: A Ruby library for working with Resource Description Framework (RDF) data.
+download-page: https://rubygems.org/gems/rdf
+repository:
+  browse: https://github.com/ruby-rdf/rdf
+  location: https://github.com/ruby-rdf/rdf.git
+license: https://github.com/ruby-rdf/rdf/blob/develop/UNLICENSE
 ```
 
 ## Frequently Asked Questions

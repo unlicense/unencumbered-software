@@ -1,0 +1,10 @@
+---
+name: furl
+homepage: https://github.com/gruns/furl
+shortdesc:
+  en: URL parsing and manipulation made easy.
+download-page: https://pypi.org/project/furl/
+repository:
+  browse: https://github.com/gruns/furl
+  location: https://github.com/gruns/furl.git
+license: https://github.com/gruns/furl/blob/master/LICENSE.md

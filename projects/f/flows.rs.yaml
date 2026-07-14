@@ -1,0 +1,10 @@
+---
+name: Flows.rs
+homepage: https://flows.rs
+shortdesc:
+  en: Building blocks for flow-based programming (FBP) in Rust.
+download-page: https://crates.io/crates/flows
+repository:
+  browse: https://github.com/artob/flows.rs
+  location: https://github.com/artob/flows.rs.git
+license: https://github.com/artob/flows.rs/blob/master/UNLICENSE

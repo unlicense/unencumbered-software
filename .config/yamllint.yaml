@@ -1,0 +1,5 @@
+# See: https://yamllint.readthedocs.io/en/stable/configuration.html
+---
+extends: default
+rules:
+  line-length: disable

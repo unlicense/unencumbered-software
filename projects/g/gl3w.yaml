@@ -1,0 +1,10 @@
+---
+name: gl3w
+homepage: https://github.com/skaslev/gl3w
+shortdesc:
+  en: Simple OpenGL core profile loader.
+download-page: https://github.com/skaslev/gl3w
+repository:
+  browse: https://github.com/skaslev/gl3w
+  location: https://github.com/skaslev/gl3w.git
+license: https://github.com/skaslev/gl3w/blob/master/UNLICENSE

@@ -1,0 +1,11 @@
+---
+name: Protoflow
+homepage: https://protoflow.rs
+shortdesc:
+  en: Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers
+    messages.
+download-page: https://crates.io/crates/protoflow
+repository:
+  browse: https://github.com/asimov-platform/protoflow
+  location: https://github.com/asimov-platform/protoflow.git
+license: https://github.com/asimov-platform/protoflow/blob/master/UNLICENSE
