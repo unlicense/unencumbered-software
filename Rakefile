@@ -2,6 +2,8 @@ require 'json'
 require 'stringio'
 require 'yaml'
 
+READMER = 'readmer'
+
 PROJECTS = Dir['projects/**/*.yaml'].sort_by do |path|
   path.delete_prefix('projects/').delete_suffix('.yaml')
 end.freeze
@@ -10,18 +12,10 @@ SHOWCASE = Dir['showcase/**/*.yaml'].sort_by do |path|
   path.delete_prefix('showcase/').delete_suffix('.yaml')
 end.freeze
 
-task default: %w(projects.json projects.md showcase.json showcase.md)
+task default: %w(README.md projects.json projects.md showcase.json showcase.md)
 
-task convert: PROJECTS do |t|
-  t.prerequisites.each do |input_path|
-    next unless File.exist?(input_path)
-    output_path = input_path.gsub('.json', '.yaml')
-    project = JSON.parse(File.read(input_path))
-    File.open(output_path, 'w') do |out|
-      out.puts project.to_yaml
-    end
-    FileUtils.rm(input_path)
-  end
+file 'README.md': %w[.config/readmer/README.md.liquid] do |t|
+  sh "#{READMER} render #{t.prerequisites.first} > #{t.name}"
 end
 
 file 'projects.json': PROJECTS do |t|
