@@ -3,7 +3,7 @@ name: Bitcache
 homepage: https://bitcache.dev
 shortdesc:
   en: Bitcache is a distributed content-addressable storage (CAS) system.
-download-page: https://github.com/artob/bitcache
+download-page: https://crates.io/crates/bitcache
 repository:
   browse: https://github.com/artob/bitcache
   location: https://github.com/artob/bitcache.git

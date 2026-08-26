@@ -5,6 +5,6 @@ shortdesc:
   en: ASIMOV Software Development Kit (SDK) for Rust
 download-page: https://crates.io/crates/asimov-sdk
 repository:
-  browse: https://github.com/asimov-platform/asimov.rs
-  location: https://github.com/asimov-platform/asimov.rs.git
-license: https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE
+  browse: https://github.com/asimov-platform/asimov-sdk/tree/master/rust
+  location: https://github.com/asimov-platform/asimov-sdk.git
+license: https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE

@@ -3,7 +3,7 @@ name: ASIMOV CLI
 homepage: https://cli.asimov.sh
 shortdesc:
   en: ASIMOV Command-Line Interface (CLI)
-download-page: https://github.com/asimov-platform
+download-page: https://crates.io/crates/asimov-cli
 repository:
   browse: https://github.com/asimov-platform/asimov-cli
   location: https://github.com/asimov-platform/asimov-cli.git

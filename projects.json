@@ -29,7 +29,7 @@
     "shortdesc": {
       "en": "A polyglot development platform for trustworthy, neurosymbolic AI."
     },
-    "download-page": "https://github.com/asimov-platform",
+    "download-page": "https://crates.io/crates/asimov-sdk",
     "repository": {
       "browse": "https://github.com/asimov-platform/asimov-cli",
       "location": "https://github.com/asimov-platform/asimov-cli.git"
@@ -42,7 +42,7 @@
     "shortdesc": {
       "en": "ASIMOV Command-Line Interface (CLI)"
     },
-    "download-page": "https://github.com/asimov-platform",
+    "download-page": "https://crates.io/crates/asimov-cli",
     "repository": {
       "browse": "https://github.com/asimov-platform/asimov-cli",
       "location": "https://github.com/asimov-platform/asimov-cli.git"
@@ -55,7 +55,7 @@
     "shortdesc": {
       "en": "ASIMOV Software Development Kit (SDK)"
     },
-    "download-page": "https://github.com/asimov-platform",
+    "download-page": "https://crates.io/crates/asimov-sdk",
     "repository": {
       "browse": "https://github.com/asimov-platform/asimov-sdk",
       "location": "https://github.com/asimov-platform/asimov-sdk.git"
@@ -63,30 +63,43 @@
     "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
   },
   {
+    "name": "ASIMOV.dart",
+    "homepage": "https://pub.dev/packages/asimov",
+    "shortdesc": {
+      "en": "ASIMOV Software Development Kit (SDK) for Dart"
+    },
+    "download-page": "https://pub.dev/packages/asimov",
+    "repository": {
+      "browse": "https://github.com/asimov-platform/asimov-sdk/tree/master/dart",
+      "location": "https://github.com/asimov-platform/asimov-sdk.git"
+    },
+    "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
+  },
+  {
     "name": "ASIMOV.js",
-    "homepage": "https://www.npmjs.com/package/asimov.js",
+    "homepage": "https:/npmjs.com/package/asimov.js",
     "shortdesc": {
       "en": "ASIMOV Software Development Kit (SDK) for JavaScript"
     },
-    "download-page": "https://www.npmjs.com/package/asimov.js",
+    "download-page": "https://npmjs.com/package/asimov.js",
     "repository": {
-      "browse": "https://github.com/asimov-platform/asimov.js",
-      "location": "https://github.com/asimov-platform/asimov.js.git"
+      "browse": "https://github.com/asimov-platform/asimov-sdk/tree/master/js",
+      "location": "https://github.com/asimov-platform/asimov-sdk.git"
     },
-    "license": "https://github.com/asimov-platform/asimov.js/blob/master/UNLICENSE"
+    "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
   },
   {
     "name": "ASIMOV.py",
-    "homepage": "https://pypi.org/project/asimov.py/",
+    "homepage": "https://pypi.org/project/asimov.py",
     "shortdesc": {
       "en": "ASIMOV Software Development Kit (SDK) for Python"
     },
-    "download-page": "https://pypi.org/project/asimov.py/",
+    "download-page": "https://pypi.org/project/asimov.py",
     "repository": {
-      "browse": "https://github.com/asimov-platform/asimov.py",
-      "location": "https://github.com/asimov-platform/asimov.py.git"
+      "browse": "https://github.com/asimov-platform/asimov-sdk/tree/master/python",
+      "location": "https://github.com/asimov-platform/asimov-sdk.git"
     },
-    "license": "https://github.com/asimov-platform/asimov.py/blob/master/UNLICENSE"
+    "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
   },
   {
     "name": "ASIMOV.rb",
@@ -96,10 +109,10 @@
     },
     "download-page": "https://rubygems.org/gems/asimov.rb",
     "repository": {
-      "browse": "https://github.com/asimov-platform/asimov.rb",
-      "location": "https://github.com/asimov-platform/asimov.rb.git"
+      "browse": "https://github.com/asimov-platform/asimov-sdk/tree/master/ruby",
+      "location": "https://github.com/asimov-platform/asimov-sdk.git"
     },
-    "license": "https://github.com/asimov-platform/asimov.rb/blob/master/UNLICENSE"
+    "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
   },
   {
     "name": "ASIMOV.rs",
@@ -109,10 +122,10 @@
     },
     "download-page": "https://crates.io/crates/asimov-sdk",
     "repository": {
-      "browse": "https://github.com/asimov-platform/asimov.rs",
-      "location": "https://github.com/asimov-platform/asimov.rs.git"
+      "browse": "https://github.com/asimov-platform/asimov-sdk/tree/master/rust",
+      "location": "https://github.com/asimov-platform/asimov-sdk.git"
     },
-    "license": "https://github.com/asimov-platform/asimov.rs/blob/master/UNLICENSE"
+    "license": "https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE"
   },
   {
     "name": "Async-Flow",
@@ -133,7 +146,7 @@
     "shortdesc": {
       "en": "Bitcache is a distributed content-addressable storage (CAS) system."
     },
-    "download-page": "https://github.com/artob/bitcache",
+    "download-page": "https://crates.io/crates/bitcache",
     "repository": {
       "browse": "https://github.com/artob/bitcache",
       "location": "https://github.com/artob/bitcache.git"

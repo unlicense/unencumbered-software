@@ -3,7 +3,7 @@ name: ASIMOV SDK
 homepage: https://sdk.asimov.sh
 shortdesc:
   en: ASIMOV Software Development Kit (SDK)
-download-page: https://github.com/asimov-platform
+download-page: https://crates.io/crates/asimov-sdk
 repository:
   browse: https://github.com/asimov-platform/asimov-sdk
   location: https://github.com/asimov-platform/asimov-sdk.git

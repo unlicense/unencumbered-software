@@ -1,0 +1,10 @@
+---
+name: ASIMOV.dart
+homepage: https://pub.dev/packages/asimov
+shortdesc:
+  en: ASIMOV Software Development Kit (SDK) for Dart
+download-page: https://pub.dev/packages/asimov
+repository:
+  browse: https://github.com/asimov-platform/asimov-sdk/tree/master/dart
+  location: https://github.com/asimov-platform/asimov-sdk.git
+license: https://github.com/asimov-platform/asimov-sdk/blob/master/UNLICENSE
