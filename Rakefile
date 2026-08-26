@@ -2,7 +2,7 @@ require 'json'
 require 'stringio'
 require 'yaml'
 
-READMER = 'readmer'
+READMER = 'readmer'  # See: https://readmer.dev
 
 PROJECTS = Dir['projects/**/*.yaml'].sort_by do |path|
   path.delete_prefix('projects/').delete_suffix('.yaml')

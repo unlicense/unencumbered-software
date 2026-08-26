@@ -13,6 +13,19 @@
     "license": "https://github.com/asimov-platform/asimov-cli/blob/master/UNLICENSE"
   },
   {
+    "name": "Bitcache",
+    "homepage": "https://bitcache.dev",
+    "shortdesc": {
+      "en": "Bitcache is a distributed content-addressable storage (CAS) system."
+    },
+    "download-page": "https://github.com/artob/bitcache",
+    "repository": {
+      "browse": "https://github.com/artob/bitcache",
+      "location": "https://github.com/artob/bitcache.git"
+    },
+    "license": "https://github.com/artob/bitcache/blob/master/UNLICENSE"
+  },
+  {
     "name": "Edky",
     "homepage": "https://edky.dev",
     "shortdesc": {
