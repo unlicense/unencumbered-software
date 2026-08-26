@@ -141,6 +141,19 @@
     "license": "https://github.com/artob/bitcache/blob/master/UNLICENSE"
   },
   {
+    "name": "Bitchat",
+    "homepage": "https://bitchat.free",
+    "shortdesc": {
+      "en": "A decentralized peer-to-peer messaging app that operates over Bluetooth mesh networks."
+    },
+    "download-page": "https://github.com/permissionlesstech/bitchat",
+    "repository": {
+      "browse": "https://github.com/permissionlesstech/bitchat",
+      "location": "https://github.com/permissionlesstech/bitchat.git"
+    },
+    "license": "https://github.com/permissionlesstech/bitchat/blob/main/LICENSE"
+  },
+  {
     "name": "Borsh.rb",
     "homepage": "https://rubygems.org/gems/borsh",
     "shortdesc": {
